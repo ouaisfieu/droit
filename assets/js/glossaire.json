@@ -1,0 +1,2370 @@
+[
+{
+"t": "Abrogation",
+"d": "Suppression d'une norme pour l'avenir par une norme de rang au moins égal. Se distingue de l'annulation, qui efface la norme rétroactivement.",
+"c": "sources-du-droit",
+"v": [
+"Annulation",
+"Entrée en vigueur"
+]
+},
+{
+"t": "Accord de coopération",
+"d": "Convention conclue entre l'État fédéral, les communautés et les régions pour organiser conjointement une compétence. Obligatoire dans certaines matières prévues par la loi spéciale.",
+"c": "belgique-federale",
+"v": [
+"Loi spéciale",
+"Compétences exclusives"
+]
+},
+{
+"t": "Acquittement",
+"d": "Décision d'une juridiction de jugement constatant que la culpabilité n'est pas établie. À ne pas confondre avec le non-lieu, rendu par une juridiction d'instruction.",
+"c": "proces-penal",
+"v": [
+"Non-lieu",
+"Classement sans suite"
+]
+},
+{
+"t": "Acte administratif",
+"d": "Décision unilatérale d'une autorité publique produisant des effets de droit. Peut être réglementaire (portée générale) ou individuel.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Conseil d'État",
+"Article 159 de la Constitution"
+]
+},
+{
+"t": "Acte authentique",
+"d": "Écrit dressé par un officier public compétent (notaire, huissier, officier de l'état civil). Fait foi jusqu'à inscription de faux et possède force exécutoire.",
+"c": "raisonnement-juridique",
+"v": [
+"Notaire",
+"Acte sous signature privée"
+]
+},
+{
+"t": "Acte juridique",
+"d": "Manifestation de volonté destinée à produire des effets de droit : contrat, testament, décision administrative. Se prouve en principe par écrit au-delà d'un certain montant.",
+"c": "raisonnement-juridique",
+"v": [
+"Fait juridique",
+"Preuve"
+]
+},
+{
+"t": "Acte sous signature privée",
+"d": "Écrit signé par les parties sans intervention d'un officier public. Fait foi entre elles tant que la signature n'est pas contestée.",
+"c": "raisonnement-juridique",
+"v": [
+"Acte authentique",
+"Preuve"
+]
+},
+{
+"t": "Action civile",
+"d": "Action de la victime tendant à la réparation du dommage causé par une infraction. Peut être portée devant le juge pénal ou le juge civil.",
+"c": "proces-penal",
+"v": [
+"Action publique",
+"Partie civile"
+]
+},
+{
+"t": "Action en cessation",
+"d": "Procédure rapide visant à faire ordonner l'arrêt d'un comportement illicite. Utilisée notamment en matière de discrimination et de pratiques du marché.",
+"c": "egalite-non-discrimination",
+"v": [
+"Référé"
+]
+},
+{
+"t": "Action positive",
+"d": "Mesure temporaire avantageant un groupe désavantagé afin de corriger une inégalité de fait. Soumise à des conditions strictes de nécessité et de proportionnalité.",
+"c": "egalite-non-discrimination",
+"v": [
+"Discrimination directe",
+"Égalité"
+]
+},
+{
+"t": "Action publique",
+"d": "Action exercée par le ministère public au nom de la société pour faire appliquer la loi pénale. Elle n'appartient pas à la victime.",
+"c": "proces-penal",
+"v": [
+"Ministère public",
+"Action civile"
+]
+},
+{
+"t": "Adage",
+"d": "Formule brève, souvent latine, condensant une règle ou un principe de droit. Elle n'a pas de valeur normative propre mais sert de repère argumentatif.",
+"c": "raisonnement-juridique",
+"v": [
+"Lex specialis"
+]
+},
+{
+"t": "Aide juridique de deuxième ligne",
+"d": "Désignation d'un avocat gratuitement ou à coût réduit pour traiter un dossier complet, selon les revenus. Anciennement appelée <em>pro deo</em>.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Bureau d'aide juridique"
+]
+},
+{
+"t": "Aide juridique de première ligne",
+"d": "Consultation courte et gratuite avec un avocat : information, premier avis, orientation. Accessible sans condition de revenus.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Aide juridique de deuxième ligne",
+"Assistance judiciaire"
+]
+},
+{
+"t": "Aménagement raisonnable",
+"d": "Mesure concrète permettant à une personne handicapée d'accéder, de participer ou de progresser, sauf charge disproportionnée. Son refus injustifié est une discrimination.",
+"c": "egalite-non-discrimination",
+"v": [
+"Discrimination directe"
+]
+},
+{
+"t": "Amendement",
+"d": "Proposition de modification d'un texte en discussion au Parlement. Peut être déposée en commission ou en séance plénière.",
+"c": "fabrication-de-la-loi",
+"v": [
+"Projet de loi",
+"Proposition de loi"
+]
+},
+{
+"t": "Annulation",
+"d": "Anéantissement rétroactif d'une norme ou d'un acte par une juridiction. La norme est réputée n'avoir jamais existé, sous réserve du maintien des effets.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Abrogation",
+"Cour constitutionnelle"
+]
+},
+{
+"t": "Appel",
+"d": "Voie de recours ordinaire permettant de faire rejuger l'affaire en fait et en droit par une juridiction supérieure.",
+"c": "proces-civil",
+"v": [
+"Cassation",
+"Opposition",
+"Effet dévolutif"
+]
+},
+{
+"t": "Arbitrage",
+"d": "Mode de règlement des conflits par lequel les parties confient la décision à un ou plusieurs arbitres privés. La sentence a l'autorité de chose jugée.",
+"c": "regler-autrement",
+"v": [
+"Sentence arbitrale",
+"Exequatur"
+]
+},
+{
+"t": "Arrestation",
+"d": "Privation de liberté décidée par la police ou le parquet. Elle ne peut dépasser 48 heures sans mandat d'arrêt délivré par un juge d'instruction.",
+"c": "proces-penal",
+"v": [
+"Mandat d'arrêt",
+"Détention préventive"
+]
+},
+{
+"t": "Arrêt",
+"d": "Décision rendue par une cour (cour d'appel, cour du travail, cour d'assises, Cour de cassation, Cour constitutionnelle, Conseil d'État).",
+"c": "organisation-judiciaire",
+"v": [
+"Jugement"
+]
+},
+{
+"t": "Arrêté ministériel",
+"d": "Norme prise par un ministre seul, généralement pour des mesures d'exécution de détail.",
+"c": "sources-du-droit",
+"v": [
+"Arrêté royal"
+]
+},
+{
+"t": "Arrêté royal",
+"d": "Norme adoptée par le Roi, c'est-à-dire par le gouvernement fédéral, pour exécuter une loi. Contresigné par un ministre qui en assume la responsabilité.",
+"c": "sources-du-droit",
+"v": [
+"Arrêté ministériel",
+"Contreseing"
+]
+},
+{
+"t": "Arrondissement judiciaire",
+"d": "Circonscription territoriale abritant un tribunal de première instance, un tribunal du travail, un tribunal de l'entreprise et un parquet. Il en existe douze.",
+"c": "organisation-judiciaire",
+"v": [
+"Canton judiciaire",
+"Ressort"
+]
+},
+{
+"t": "Article 159 de la Constitution",
+"d": "Disposition qui interdit à tout juge d'appliquer un acte administratif illégal. Le juge écarte l'acte pour l'affaire jugée, sans l'annuler.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Exception d'illégalité",
+"Conseil d'État"
+]
+},
+{
+"t": "Assemblée générale des Nations unies",
+"d": "Organe plénier de l'ONU où chaque État membre dispose d'une voix. Ses résolutions sont en principe des recommandations.",
+"c": "droit-international-onu",
+"v": [
+"Conseil de sécurité",
+"ONU"
+]
+},
+{
+"t": "Assistance judiciaire",
+"d": "Dispense totale ou partielle des frais de procédure — greffe, huissier, expertise, traduction — accordée selon les revenus.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Aide juridique de deuxième ligne",
+"Dépens"
+]
+},
+{
+"t": "Auditeur du travail",
+"d": "Magistrat du ministère public près le tribunal du travail. Exerce l'action publique en matière de droit social et donne des avis au civil.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Ministère public",
+"Tribunal du travail"
+]
+},
+{
+"t": "Autonomie constitutive",
+"d": "Faculté reconnue à certaines entités fédérées de régler elles-mêmes des aspects de leur organisation, dans les limites fixées par la loi spéciale.",
+"c": "belgique-federale",
+"v": [
+"Loi spéciale"
+]
+},
+{
+"t": "Autorité de chose jugée",
+"d": "Effet d'une décision définitive qui interdit de rejuger la même question entre les mêmes parties.",
+"c": "proces-civil",
+"v": [
+"Transaction"
+]
+},
+{
+"t": "Aveu",
+"d": "Reconnaissance par une partie d'un fait qui lui est défavorable. Il n'a pas de valeur automatique au pénal, où le juge conserve sa liberté d'appréciation.",
+"c": "raisonnement-juridique",
+"v": [
+"Preuve",
+"Intime conviction"
+]
+},
+{
+"t": "Avocat",
+"d": "Professionnel du droit chargé de conseiller, d'assister et de représenter. Inscrit à un barreau et tenu au secret professionnel.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Barreau",
+"Bâtonnier",
+"Secret professionnel"
+]
+},
+{
+"t": "Bail",
+"d": "Contrat par lequel une personne met un bien à disposition d'une autre contre paiement d'un loyer. Le bail d'habitation relève des régions.",
+"c": "organisation-judiciaire",
+"v": [
+"Justice de paix",
+"Fédéralisme"
+]
+},
+{
+"t": "Barreau",
+"d": "Ordre professionnel regroupant les avocats d'un arrondissement judiciaire. Dirigé par un bâtonnier et un conseil de l'Ordre.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Bâtonnier",
+"Avocat"
+]
+},
+{
+"t": "Bâtonnier",
+"d": "Avocat élu à la tête d'un barreau. Il exerce des fonctions d'autorité, de conciliation et de discipline.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Barreau"
+]
+},
+{
+"t": "Bicamérisme",
+"d": "Système parlementaire à deux chambres. En Belgique, il est devenu largement optionnel : la Chambre légifère seule dans la plupart des matières.",
+"c": "institutions-federales",
+"v": [
+"Chambre des représentants",
+"Sénat"
+]
+},
+{
+"t": "Bloc de constitutionnalité",
+"d": "Ensemble des normes de référence utilisées par la Cour constitutionnelle pour son contrôle : titre II de la Constitution, articles 170, 172 et 191, et règles répartitrices de compétences.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Cour constitutionnelle"
+]
+},
+{
+"t": "Bourgmestre",
+"d": "Chef de l'exécutif communal, nommé sur présentation du conseil communal. Il est à la fois autorité communale et représentant de l'autorité supérieure.",
+"c": "communes-et-provinces",
+"v": [
+"Collège communal",
+"Conseil communal"
+]
+},
+{
+"t": "Budget",
+"d": "Autorisation annuelle donnée par le Parlement de percevoir les recettes et d'engager les dépenses. Son vote est un instrument central de contrôle du gouvernement.",
+"c": "institutions-federales",
+"v": [
+"Cour des comptes",
+"Chambre des représentants"
+]
+},
+{
+"t": "Bureau d'aide juridique",
+"d": "Organe du barreau qui examine les demandes d'aide juridique de deuxième ligne et désigne les avocats.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Aide juridique de deuxième ligne"
+]
+},
+{
+"t": "Canton judiciaire",
+"d": "Plus petite circonscription judiciaire, siège d'une justice de paix. Il en existe 187.",
+"c": "organisation-judiciaire",
+"v": [
+"Justice de paix",
+"Arrondissement judiciaire"
+]
+},
+{
+"t": "Casier judiciaire",
+"d": "Registre des condamnations pénales. L'extrait délivré au particulier ne mentionne pas toutes les décisions, notamment en cas de suspension du prononcé.",
+"c": "proces-penal",
+"v": [
+"Suspension du prononcé",
+"Réhabilitation"
+]
+},
+{
+"t": "Cassation",
+"d": "Voie de recours extraordinaire portant uniquement sur la légalité de la décision et le respect des formes, jamais sur les faits.",
+"c": "organisation-judiciaire",
+"v": [
+"Cour de cassation",
+"Appel",
+"Renvoi"
+]
+},
+{
+"t": "Chambre des mises en accusation",
+"d": "Juridiction d'instruction de la cour d'appel. Juge les appels contre la chambre du conseil, contrôle les méthodes particulières de recherche et renvoie devant la cour d'assises.",
+"c": "proces-penal",
+"v": [
+"Chambre du conseil",
+"Juge d'instruction"
+]
+},
+{
+"t": "Chambre des représentants",
+"d": "Assemblée fédérale de 150 députés élus à la proportionnelle pour cinq ans. Vote les lois et le budget, contrôle le gouvernement.",
+"c": "institutions-federales",
+"v": [
+"Sénat",
+"Motion de méfiance constructive"
+]
+},
+{
+"t": "Chambre du conseil",
+"d": "Juridiction d'instruction du tribunal de première instance. Contrôle la détention préventive et règle la procédure à la fin de l'instruction.",
+"c": "proces-penal",
+"v": [
+"Non-lieu",
+"Détention préventive"
+]
+},
+{
+"t": "Chapitre VII",
+"d": "Partie de la Charte des Nations unies qui permet au Conseil de sécurité d'imposer des mesures contraignantes, sanctions comprises, en cas de menace contre la paix.",
+"c": "droit-international-onu",
+"v": [
+"Conseil de sécurité",
+"Veto"
+]
+},
+{
+"t": "Charge de la preuve",
+"d": "Détermination de la partie qui doit établir un fait. Au civil, elle pèse sur celui qui réclame ; au pénal, entièrement sur l'accusation.",
+"c": "raisonnement-juridique",
+"v": [
+"Présomption d'innocence",
+"Preuve"
+]
+},
+{
+"t": "Charte des droits fondamentaux",
+"d": "Catalogue des droits fondamentaux de l'Union européenne, doté de la même valeur juridique que les traités. Ne s'applique aux États que lorsqu'ils mettent en œuvre le droit de l'Union.",
+"c": "union-europeenne",
+"v": [
+"Convention européenne des droits de l'homme",
+"Cour de justice de l'Union européenne"
+]
+},
+{
+"t": "Circulaire",
+"d": "Instruction adressée par une autorité à ses services pour orienter l'application d'une norme. N'a en principe pas de valeur réglementaire.",
+"c": "sources-du-droit",
+"v": [
+"Acte administratif"
+]
+},
+{
+"t": "Citation",
+"d": "Acte d'huissier par lequel une partie est convoquée devant une juridiction. Mode de droit commun d'introduction d'une instance.",
+"c": "proces-civil",
+"v": [
+"Requête contradictoire",
+"Signification"
+]
+},
+{
+"t": "Classement sans suite",
+"d": "Décision du parquet de ne pas poursuivre. Elle n'est pas définitive : le dossier peut être rouvert tant que l'action publique n'est pas prescrite.",
+"c": "proces-penal",
+"v": [
+"Opportunité des poursuites",
+"Non-lieu"
+]
+},
+{
+"t": "Codécision",
+"d": "Procédure législative ordinaire de l'Union européenne, dans laquelle le Parlement européen et le Conseil adoptent un texte sur un pied d'égalité.",
+"c": "union-europeenne",
+"v": [
+"Directive",
+"Règlement européen"
+]
+},
+{
+"t": "Collège communal",
+"d": "Exécutif de la commune, composé du bourgmestre et des échevins. Appelé collège des bourgmestre et échevins dans certaines régions.",
+"c": "communes-et-provinces",
+"v": [
+"Conseil communal",
+"Bourgmestre"
+]
+},
+{
+"t": "Comité de concertation",
+"d": "Organe paritaire réunissant le gouvernement fédéral et les gouvernements des entités fédérées pour prévenir et régler les conflits d'intérêts.",
+"c": "belgique-federale",
+"v": [
+"Conflit d'intérêts",
+"Conflit de compétence"
+]
+},
+{
+"t": "Commission européenne",
+"d": "Organe exécutif de l'Union, gardien des traités. Détient le monopole de l'initiative législative dans la plupart des domaines.",
+"c": "union-europeenne",
+"v": [
+"Conseil de l'Union européenne",
+"Recours en manquement"
+]
+},
+{
+"t": "Communauté",
+"d": "Entité fédérée compétente pour les matières liées aux personnes : enseignement, culture, santé, aide aux personnes, emploi des langues. Il y en a trois.",
+"c": "belgique-federale",
+"v": [
+"Région",
+"Compétences exclusives"
+]
+},
+{
+"t": "Commune",
+"d": "Collectivité locale de base, dotée d'un conseil élu et d'un collège. Elle exerce l'intérêt communal et des missions déléguées par les autorités supérieures.",
+"c": "communes-et-provinces",
+"v": [
+"Conseil communal",
+"Bourgmestre",
+"Tutelle"
+]
+},
+{
+"t": "Compétence résiduelle",
+"d": "Ensemble des matières non attribuées explicitement, qui reviennent en principe à l'État fédéral tant que la Constitution n'en dispose pas autrement.",
+"c": "belgique-federale",
+"v": [
+"Compétences exclusives"
+]
+},
+{
+"t": "Compétences exclusives",
+"d": "Principe belge selon lequel une matière relève d'un seul législateur, sans hiérarchie entre normes fédérales et fédérées.",
+"c": "belgique-federale",
+"v": [
+"Communauté",
+"Région",
+"Conflit de compétence"
+]
+},
+{
+"t": "Conciliation",
+"d": "Tentative de rapprochement des parties menée par un magistrat. L'accord est consigné dans un procès-verbal ayant force exécutoire.",
+"c": "regler-autrement",
+"v": [
+"Médiation",
+"Justice de paix"
+]
+},
+{
+"t": "Conclusions",
+"d": "Écrits par lesquels une partie expose ses demandes, ses moyens et ses arguments. Leur dépôt est soumis à des délais stricts.",
+"c": "proces-civil",
+"v": [
+"Mise en état",
+"Contradictoire"
+]
+},
+{
+"t": "Confiance légitime",
+"d": "Principe selon lequel l'administration ne peut pas trahir brutalement les attentes qu'elle a elle-même suscitées chez l'administré.",
+"c": "etat-de-droit",
+"v": [
+"Sécurité juridique"
+]
+},
+{
+"t": "Conflit d'intérêts",
+"d": "Procédure permettant à une assemblée de suspendre l'examen d'un texte d'une autre assemblée qui léserait gravement ses intérêts.",
+"c": "belgique-federale",
+"v": [
+"Comité de concertation"
+]
+},
+{
+"t": "Conflit de compétence",
+"d": "Situation dans laquelle deux législateurs revendiquent la même matière. Tranché par la Cour constitutionnelle sur la base des règles répartitrices.",
+"c": "belgique-federale",
+"v": [
+"Compétences exclusives",
+"Cour constitutionnelle"
+]
+},
+{
+"t": "Conseil communal",
+"d": "Assemblée délibérante de la commune, élue tous les six ans. Vote les règlements, le budget et les taxes communales.",
+"c": "communes-et-provinces",
+"v": [
+"Collège communal",
+"Règlement communal"
+]
+},
+{
+"t": "Conseil d'État",
+"d": "Juridiction administrative suprême et organe consultatif. Sa section de législation rend des avis sur les projets de normes ; sa section du contentieux annule les actes administratifs illégaux.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Recours en annulation",
+"Article 159 de la Constitution"
+]
+},
+{
+"t": "Conseil de l'Europe",
+"d": "Organisation internationale de 46 États consacrée aux droits humains, à la démocratie et à l'État de droit. À distinguer des institutions de l'Union européenne.",
+"c": "conseil-de-l-europe",
+"v": [
+"Convention européenne des droits de l'homme",
+"Cour européenne des droits de l'homme"
+]
+},
+{
+"t": "Conseil de l'Union européenne",
+"d": "Institution réunissant les ministres des États membres. Colégislateur avec le Parlement européen.",
+"c": "union-europeenne",
+"v": [
+"Conseil européen",
+"Codécision"
+]
+},
+{
+"t": "Conseil de sécurité",
+"d": "Organe de l'ONU chargé du maintien de la paix. Quinze membres, dont cinq permanents disposant d'un droit de veto. Ses résolutions peuvent être obligatoires.",
+"c": "droit-international-onu",
+"v": [
+"Veto",
+"Chapitre VII"
+]
+},
+{
+"t": "Conseil européen",
+"d": "Réunion des chefs d'État ou de gouvernement. Définit les orientations politiques générales de l'Union mais n'exerce pas de fonction législative.",
+"c": "union-europeenne",
+"v": [
+"Conseil de l'Union européenne"
+]
+},
+{
+"t": "Conseil supérieur de la Justice",
+"d": "Organe indépendant, composé pour moitié de magistrats et pour moitié de non-magistrats, qui présente les candidats aux fonctions judiciaires et exerce un contrôle externe.",
+"c": "acteurs-de-la-justice",
+"v": []
+},
+{
+"t": "Constitution",
+"d": "Norme fondamentale d'un État, qui organise les pouvoirs et garantit les droits. En Belgique, elle date de 1831 et occupe le sommet de l'ordre interne.",
+"c": "etat-et-constitution",
+"v": [
+"Hiérarchie des normes",
+"Révision constitutionnelle"
+]
+},
+{
+"t": "Constitution de partie civile",
+"d": "Acte par lequel une victime devient partie au procès pénal. Devant le juge d'instruction, elle déclenche l'ouverture d'une instruction.",
+"c": "proces-penal",
+"v": [
+"Partie civile",
+"Juge d'instruction"
+]
+},
+{
+"t": "Consultation populaire",
+"d": "Vote citoyen dont le résultat n'est pas juridiquement contraignant. Seule forme de démocratie directe admise en Belgique, aux niveaux local et régional.",
+"c": "democratie",
+"v": [
+"Référendum",
+"Démocratie représentative"
+]
+},
+{
+"t": "Contentieux objectif",
+"d": "Contentieux portant sur la légalité d'un acte plutôt que sur des droits subjectifs. C'est celui du Conseil d'État en annulation.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Recours en annulation"
+]
+},
+{
+"t": "Contradictoire",
+"d": "Principe imposant que chaque partie connaisse les arguments et les pièces de l'autre et puisse y répondre. Il s'impose aussi au juge.",
+"c": "proces-civil",
+"v": [
+"Conclusions",
+"Procès équitable"
+]
+},
+{
+"t": "Contrat",
+"d": "Accord de volontés créant des obligations entre les parties. Il a force obligatoire entre elles mais ne lie pas les tiers.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Effet relatif des contrats",
+"Acte juridique"
+]
+},
+{
+"t": "Contreseing",
+"d": "Signature d'un ministre apposée à côté de celle du Roi. Sans elle, l'acte royal est sans effet ; elle transfère la responsabilité politique au ministre.",
+"c": "institutions-federales",
+"v": [
+"Irresponsabilité royale",
+"Arrêté royal"
+]
+},
+{
+"t": "Convention européenne des droits de l'homme",
+"d": "Traité du Conseil de l'Europe garantissant les droits civils et politiques. Directement applicable en Belgique et invocable devant tout juge.",
+"c": "conseil-de-l-europe",
+"v": [
+"Cour européenne des droits de l'homme",
+"Effet direct"
+]
+},
+{
+"t": "Cour constitutionnelle",
+"d": "Juridiction chargée de contrôler la conformité des lois, décrets et ordonnances au bloc de constitutionnalité. Statue sur recours en annulation ou sur question préjudicielle.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Question préjudicielle",
+"Bloc de constitutionnalité"
+]
+},
+{
+"t": "Cour d'appel",
+"d": "Juridiction de second degré pour les affaires civiles, familiales, commerciales et correctionnelles. Il en existe cinq.",
+"c": "organisation-judiciaire",
+"v": [
+"Appel",
+"Ressort"
+]
+},
+{
+"t": "Cour d'assises",
+"d": "Juridiction non permanente réunissant trois magistrats et un jury de douze citoyens. Juge les infractions les plus graves ; ses arrêts ne sont pas susceptibles d'appel.",
+"c": "organisation-judiciaire",
+"v": [
+"Jury",
+"Délit politique"
+]
+},
+{
+"t": "Cour de cassation",
+"d": "Juridiction suprême de l'ordre judiciaire, unique pour tout le pays. Ne rejuge pas les faits : elle contrôle la légalité et renvoie si elle casse.",
+"c": "organisation-judiciaire",
+"v": [
+"Cassation",
+"Renvoi"
+]
+},
+{
+"t": "Cour de justice de l'Union européenne",
+"d": "Juridiction de l'Union chargée d'assurer le respect du droit dans l'interprétation et l'application des traités. Statue notamment sur renvoi préjudiciel.",
+"c": "union-europeenne",
+"v": [
+"Renvoi préjudiciel",
+"Recours en manquement"
+]
+},
+{
+"t": "Cour des comptes",
+"d": "Institution qui contrôle les finances publiques et assiste le Parlement dans son contrôle budgétaire.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Budget"
+]
+},
+{
+"t": "Cour du travail",
+"d": "Juridiction d'appel des décisions du tribunal du travail. Il en existe cinq.",
+"c": "organisation-judiciaire",
+"v": [
+"Tribunal du travail"
+]
+},
+{
+"t": "Cour européenne des droits de l'homme",
+"d": "Juridiction de Strasbourg qui juge les requêtes dirigées contre les États parties à la Convention, après épuisement des voies de recours internes.",
+"c": "conseil-de-l-europe",
+"v": [
+"Épuisement des voies de recours internes",
+"Marge d'appréciation"
+]
+},
+{
+"t": "Coutume",
+"d": "Pratique répétée et considérée comme obligatoire. Source résiduelle en droit belge interne, mais essentielle en droit international.",
+"c": "sources-du-droit",
+"v": [
+"Droit international coutumier"
+]
+},
+{
+"t": "Critère protégé",
+"d": "Caractéristique énumérée par la loi et sur laquelle une différence de traitement est en principe interdite : origine, sexe, handicap, âge, conviction, fortune…",
+"c": "egalite-non-discrimination",
+"v": [
+"Discrimination directe",
+"Non-discrimination"
+]
+},
+{
+"t": "Décret",
+"d": "Norme législative adoptée par un parlement de communauté ou de région. A la même valeur qu'une loi fédérale dans son domaine.",
+"c": "belgique-federale",
+"v": [
+"Ordonnance",
+"Loi"
+]
+},
+{
+"t": "Défaut",
+"d": "Situation d'une partie régulièrement convoquée qui ne comparaît pas. Le jugement rendu par défaut est susceptible d'opposition.",
+"c": "proces-civil",
+"v": [
+"Opposition"
+]
+},
+{
+"t": "Délai de recours",
+"d": "Période durant laquelle un recours est ouvert. Son expiration rend la décision définitive ; il court le plus souvent depuis la signification.",
+"c": "proces-civil",
+"v": [
+"Signification",
+"Appel"
+]
+},
+{
+"t": "Délit de presse",
+"d": "Infraction commise par l'expression d'une opinion dans un écrit reproduit et diffusé. Relève de la cour d'assises, sauf motivation raciste ou xénophobe.",
+"c": "organisation-judiciaire",
+"v": [
+"Cour d'assises",
+"Liberté d'expression"
+]
+},
+{
+"t": "Délit politique",
+"d": "Infraction portant atteinte aux institutions politiques et commise dans une intention politique. Confié à la cour d'assises, mais défini très étroitement.",
+"c": "organisation-judiciaire",
+"v": [
+"Cour d'assises"
+]
+},
+{
+"t": "Démocratie représentative",
+"d": "Système dans lequel les citoyens élisent des représentants qui décident en leur nom. Modèle retenu par la Constitution belge.",
+"c": "democratie",
+"v": [
+"Référendum",
+"Consultation populaire"
+]
+},
+{
+"t": "Dépens",
+"d": "Frais de justice mis à charge de la partie qui succombe : droits de greffe, signification, expertise, indemnité de procédure.",
+"c": "proces-civil",
+"v": [
+"Indemnité de procédure"
+]
+},
+{
+"t": "Déport",
+"d": "Retrait spontané d'un juge d'une affaire lorsqu'il estime qu'un doute pourrait naître sur son impartialité.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Récusation",
+"Impartialité"
+]
+},
+{
+"t": "Détention préventive",
+"d": "Privation de liberté d'une personne présumée innocente pendant l'instruction. Suppose des indices sérieux et l'absolue nécessité pour la sécurité publique.",
+"c": "proces-penal",
+"v": [
+"Mandat d'arrêt",
+"Chambre du conseil"
+]
+},
+{
+"t": "Directive",
+"d": "Acte de l'Union européenne qui lie les États quant au résultat à atteindre, en leur laissant le choix des moyens. Doit être transposée.",
+"c": "union-europeenne",
+"v": [
+"Règlement européen",
+"Transposition",
+"Effet direct"
+]
+},
+{
+"t": "Discrimination directe",
+"d": "Traitement moins favorable d'une personne en raison d'un critère protégé, par rapport à une autre placée dans une situation comparable.",
+"c": "egalite-non-discrimination",
+"v": [
+"Discrimination indirecte",
+"Critère protégé"
+]
+},
+{
+"t": "Discrimination indirecte",
+"d": "Règle apparemment neutre qui désavantage particulièrement des personnes caractérisées par un critère protégé, sans justification objective.",
+"c": "egalite-non-discrimination",
+"v": [
+"Discrimination directe"
+]
+},
+{
+"t": "Dissolution",
+"d": "Fin anticipée de la législature entraînant de nouvelles élections. En Belgique, elle est étroitement encadrée par la Constitution.",
+"c": "institutions-federales",
+"v": [
+"Chambre des représentants"
+]
+},
+{
+"t": "Doctrine",
+"d": "Ensemble des travaux des auteurs qui commentent et systématisent le droit. Source d'autorité, non de normativité.",
+"c": "sources-du-droit",
+"v": [
+"Jurisprudence"
+]
+},
+{
+"t": "Droit au silence",
+"d": "Droit de ne pas s'accuser soi-même et de refuser de répondre. Le silence ne peut pas être retenu comme indice de culpabilité.",
+"c": "proces-penal",
+"v": [
+"Présomption d'innocence"
+]
+},
+{
+"t": "Droit collaboratif",
+"d": "Négociation encadrée par des avocats formés, qui s'engagent à se retirer si le dossier part en justice. Cette clause de retrait crée un intérêt commun à aboutir.",
+"c": "regler-autrement",
+"v": [
+"Médiation",
+"Transaction"
+]
+},
+{
+"t": "Droit dérivé",
+"d": "Ensemble des actes adoptés par les institutions de l'Union sur la base des traités : règlements, directives, décisions.",
+"c": "union-europeenne",
+"v": [
+"Droit primaire",
+"Directive"
+]
+},
+{
+"t": "Droit international coutumier",
+"d": "Règles nées d'une pratique générale des États acceptée comme étant le droit. Obligatoires même sans traité.",
+"c": "droit-international-onu",
+"v": [
+"Coutume",
+"Jus cogens"
+]
+},
+{
+"t": "Droit objectif",
+"d": "Ensemble des règles qui régissent la vie en société. S'oppose au droit subjectif, prérogative individuelle.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Droit subjectif"
+]
+},
+{
+"t": "Droit primaire",
+"d": "Traités fondateurs de l'Union européenne et textes de même rang, dont la Charte des droits fondamentaux.",
+"c": "union-europeenne",
+"v": [
+"Droit dérivé"
+]
+},
+{
+"t": "Droit subjectif",
+"d": "Prérogative reconnue à une personne et protégée par le droit objectif : droit de propriété, créance, droit à l'image.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Droit objectif"
+]
+},
+{
+"t": "Droits humains",
+"d": "Ensemble des droits reconnus à toute personne du seul fait de son humanité, protégés par la Constitution, la Convention européenne, la Charte de l'Union et les traités onusiens.",
+"c": "droits-humains",
+"v": [
+"Test de proportionnalité",
+"Obligation positive"
+]
+},
+{
+"t": "Effet dévolutif",
+"d": "Effet de l'appel qui transfère au juge supérieur l'examen de l'affaire dans les limites de ce qui est contesté.",
+"c": "proces-civil",
+"v": [
+"Appel",
+"Reformatio in pejus"
+]
+},
+{
+"t": "Effet direct",
+"d": "Aptitude d'une norme internationale ou européenne à être invoquée telle quelle par un particulier devant un juge national.",
+"c": "union-europeenne",
+"v": [
+"Primauté",
+"Directive"
+]
+},
+{
+"t": "Effet relatif des contrats",
+"d": "Règle selon laquelle un contrat n'oblige que ceux qui l'ont conclu et ne peut nuire aux tiers.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Contrat"
+]
+},
+{
+"t": "Égalité",
+"d": "Principe interdisant les différences de traitement injustifiées et imposant parfois de traiter différemment des situations différentes.",
+"c": "egalite-non-discrimination",
+"v": [
+"Non-discrimination",
+"Action positive"
+]
+},
+{
+"t": "Entrée en vigueur",
+"d": "Moment à partir duquel une norme devient obligatoire. À défaut de disposition particulière, dix jours après la publication au Moniteur belge.",
+"c": "sources-du-droit",
+"v": [
+"Moniteur belge",
+"Publication"
+]
+},
+{
+"t": "Épuisement des voies de recours internes",
+"d": "Condition de recevabilité d'une requête devant la Cour européenne des droits de l'homme : avoir d'abord porté le grief devant les juridictions nationales.",
+"c": "conseil-de-l-europe",
+"v": [
+"Cour européenne des droits de l'homme"
+]
+},
+{
+"t": "État de droit",
+"d": "Régime dans lequel les pouvoirs publics sont eux-mêmes soumis au droit et contrôlés par des juges indépendants.",
+"c": "etat-de-droit",
+"v": [
+"Séparation des pouvoirs",
+"Légalité (principe de)"
+]
+},
+{
+"t": "Exception d'illégalité",
+"d": "Moyen par lequel une partie demande au juge d'écarter un acte administratif illégal dans le litige en cours, sans l'annuler.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Article 159 de la Constitution"
+]
+},
+{
+"t": "Exequatur",
+"d": "Décision judiciaire rendant exécutoire une sentence arbitrale ou une décision étrangère. Le contrôle est limité et ne porte pas sur le fond.",
+"c": "regler-autrement",
+"v": [
+"Arbitrage",
+"Sentence arbitrale"
+]
+},
+{
+"t": "Expert judiciaire",
+"d": "Technicien désigné par le juge pour l'éclairer sur une question qui dépasse sa compétence. Son avis ne lie pas le tribunal.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Expertise judiciaire"
+]
+},
+{
+"t": "Expertise judiciaire",
+"d": "Mesure d'instruction par laquelle le juge charge un technicien de l'éclairer. Le rapport ne lie pas le juge.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Expert judiciaire",
+"Mise en état"
+]
+},
+{
+"t": "Fait juridique",
+"d": "Événement qui produit des effets de droit sans avoir été voulu pour cela : un accident, une naissance, l'écoulement du temps. Se prouve par tous moyens.",
+"c": "raisonnement-juridique",
+"v": [
+"Acte juridique",
+"Preuve"
+]
+},
+{
+"t": "Faute",
+"d": "Manquement à une norme de comportement ou à une règle légale. Condition centrale de la responsabilité extracontractuelle.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Responsabilité"
+]
+},
+{
+"t": "Fédéralisme",
+"d": "Forme d'État où des collectivités disposent de compétences propres garanties par la Constitution. En Belgique, il est né par dissociation d'un État unitaire.",
+"c": "belgique-federale",
+"v": [
+"Communauté",
+"Région"
+]
+},
+{
+"t": "Force majeure",
+"d": "Événement imprévisible et irrésistible qui empêche l'exécution d'une obligation et libère le débiteur.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Responsabilité"
+]
+},
+{
+"t": "Force obligatoire",
+"d": "Caractère contraignant d'une norme ou d'un contrat, qui s'impose à ceux qu'il vise.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Sanction",
+"Contrat"
+]
+},
+{
+"t": "Gouverneur",
+"d": "Représentant du gouvernement régional et de l'autorité fédérale dans la province. Compétences en matière d'ordre public et de sécurité civile.",
+"c": "communes-et-provinces",
+"v": [
+"Province"
+]
+},
+{
+"t": "Greffe",
+"d": "Service administratif d'une juridiction : dépôt des actes, tenue du rôle, conservation des jugements, délivrance des copies.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Greffier",
+"Rôle"
+]
+},
+{
+"t": "Greffier",
+"d": "Fonctionnaire de justice qui assiste le juge, dresse les procès-verbaux et signe les jugements. Sa signature conditionne leur validité.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Greffe"
+]
+},
+{
+"t": "Harcèlement",
+"d": "Comportement lié à un critère protégé qui porte atteinte à la dignité et crée un environnement hostile, dégradant ou offensant. Constitue une discrimination.",
+"c": "egalite-non-discrimination",
+"v": [
+"Discrimination directe"
+]
+},
+{
+"t": "Hiérarchie des normes",
+"d": "Ordonnancement des règles selon leur force : une norme inférieure ne peut pas contredire une norme supérieure.",
+"c": "hierarchie-des-normes",
+"v": [
+"Constitution",
+"Primauté"
+]
+},
+{
+"t": "Homologation",
+"d": "Approbation par un juge d'un accord conclu entre parties, qui lui confère force exécutoire. Le juge vérifie l'ordre public, pas l'opportunité.",
+"c": "regler-autrement",
+"v": [
+"Médiation",
+"Transaction"
+]
+},
+{
+"t": "Huis clos",
+"d": "Audience tenue hors la présence du public, pour des motifs limités. Le jugement est néanmoins prononcé publiquement.",
+"c": "proces-penal",
+"v": [
+"Publicité des audiences"
+]
+},
+{
+"t": "Huissier de justice",
+"d": "Officier ministériel chargé de signifier les actes, d'exécuter les décisions de justice et de dresser des constats.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Signification",
+"Saisie"
+]
+},
+{
+"t": "Immunité parlementaire",
+"d": "Protection des parlementaires contre les poursuites pour les opinions et votes émis dans l'exercice de leurs fonctions, et encadrement des poursuites pénales durant la session.",
+"c": "institutions-federales",
+"v": [
+"Chambre des représentants"
+]
+},
+{
+"t": "Impartialité",
+"d": "Absence de préjugé du juge à l'égard de l'affaire. S'apprécie subjectivement et objectivement, c'est-à-dire aussi en apparence.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Récusation",
+"Indépendance"
+]
+},
+{
+"t": "In dubio pro reo",
+"d": "Adage selon lequel le doute profite à la personne poursuivie. Un doute raisonnable doit conduire à l'acquittement.",
+"c": "proces-penal",
+"v": [
+"Présomption d'innocence",
+"Acquittement"
+]
+},
+{
+"t": "Inamovibilité",
+"d": "Garantie interdisant de révoquer, suspendre ou déplacer un juge sans son consentement, sauf décision de justice.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Indépendance"
+]
+},
+{
+"t": "Indemnité de procédure",
+"d": "Somme forfaitaire due par la partie qui perd, en contribution aux honoraires d'avocat de l'autre. Ne couvre jamais l'intégralité des frais.",
+"c": "proces-civil",
+"v": [
+"Dépens"
+]
+},
+{
+"t": "Indépendance",
+"d": "Garantie institutionnelle protégeant le juge des pressions extérieures : nomination à vie, inamovibilité, statut pécuniaire légal, incompatibilités.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Impartialité",
+"Séparation des pouvoirs"
+]
+},
+{
+"t": "Information",
+"d": "Phase d'enquête pénale menée sous la direction du procureur du Roi, en principe secrète et non contradictoire.",
+"c": "proces-penal",
+"v": [
+"Instruction",
+"Ministère public"
+]
+},
+{
+"t": "Instruction",
+"d": "Phase d'enquête confiée à un juge d'instruction, qui instruit à charge et à décharge et peut ordonner les mesures les plus attentatoires aux libertés.",
+"c": "proces-penal",
+"v": [
+"Juge d'instruction",
+"Chambre du conseil"
+]
+},
+{
+"t": "Intérêt à agir",
+"d": "Condition de recevabilité d'un recours : le requérant doit démontrer un avantage concret à obtenir gain de cause.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Recours en annulation"
+]
+},
+{
+"t": "Intime conviction",
+"d": "Mode d'appréciation de la preuve en matière pénale : le juge décide selon sa conviction, mais doit motiver sa décision.",
+"c": "proces-penal",
+"v": [
+"Preuve",
+"In dubio pro reo"
+]
+},
+{
+"t": "Irresponsabilité royale",
+"d": "Principe selon lequel la personne du Roi est inviolable ; ses actes sont couverts par le contreseing d'un ministre qui en répond.",
+"c": "institutions-federales",
+"v": [
+"Contreseing"
+]
+},
+{
+"t": "Juge d'instruction",
+"d": "Magistrat du siège chargé d'instruire à charge et à décharge. Seul habilité à délivrer un mandat d'arrêt ou à ordonner des écoutes.",
+"c": "proces-penal",
+"v": [
+"Instruction",
+"Mandat d'arrêt"
+]
+},
+{
+"t": "Juge de paix",
+"d": "Magistrat du canton, juge de proximité compétent jusqu'à 5 000 €, en matière de baux, de voisinage et de protection des personnes vulnérables.",
+"c": "organisation-judiciaire",
+"v": [
+"Justice de paix",
+"Conciliation"
+]
+},
+{
+"t": "Juge des saisies",
+"d": "Magistrat du tribunal de première instance qui tranche les contestations liées à l'exécution forcée et peut accorder des délais.",
+"c": "proces-civil",
+"v": [
+"Saisie",
+"Huissier de justice"
+]
+},
+{
+"t": "Juge naturel",
+"d": "Principe interdisant de soustraire une personne au juge que la loi lui assigne.",
+"c": "etat-de-droit",
+"v": [
+"Procès équitable"
+]
+},
+{
+"t": "Jugement",
+"d": "Décision rendue par un tribunal. Doit être motivé et prononcé en audience publique.",
+"c": "proces-civil",
+"v": [
+"Arrêt",
+"Motivation"
+]
+},
+{
+"t": "Juges consulaires",
+"d": "Juges non professionnels issus du monde de l'entreprise qui siègent au tribunal de l'entreprise aux côtés d'un magistrat.",
+"c": "organisation-judiciaire",
+"v": [
+"Tribunal de l'entreprise"
+]
+},
+{
+"t": "Juges sociaux",
+"d": "Juges non professionnels représentant les travailleurs et les employeurs, qui siègent au tribunal du travail.",
+"c": "organisation-judiciaire",
+"v": [
+"Tribunal du travail"
+]
+},
+{
+"t": "Jurisprudence",
+"d": "Ensemble des décisions de justice. En Belgique, elle n'a pas force obligatoire de précédent mais exerce une influence considérable.",
+"c": "sources-du-droit",
+"v": [
+"Précédent",
+"Doctrine"
+]
+},
+{
+"t": "Jury",
+"d": "Collège de douze citoyens tirés au sort qui statue sur la culpabilité devant la cour d'assises.",
+"c": "organisation-judiciaire",
+"v": [
+"Cour d'assises"
+]
+},
+{
+"t": "Jus cogens",
+"d": "Normes impératives du droit international auxquelles aucun traité ne peut déroger : interdiction du génocide, de l'esclavage, de la torture, de l'agression.",
+"c": "droit-international-onu",
+"v": [
+"Droit international coutumier"
+]
+},
+{
+"t": "Justice de paix",
+"d": "Juridiction civile de proximité, une par canton. Compétente jusqu'à 5 000 € et dans plusieurs matières quelle que soit la somme.",
+"c": "organisation-judiciaire",
+"v": [
+"Juge de paix",
+"Canton judiciaire"
+]
+},
+{
+"t": "Légalité (principe de)",
+"d": "Exigence selon laquelle toute action publique doit reposer sur une norme et rester dans ses limites. En matière pénale, il n'y a ni infraction ni peine sans loi préalable.",
+"c": "etat-de-droit",
+"v": [
+"État de droit",
+"Non-rétroactivité"
+]
+},
+{
+"t": "Légistique",
+"d": "Art et technique de rédaction des textes normatifs : clarté, cohérence, hiérarchie interne, dispositions transitoires.",
+"c": "fabrication-de-la-loi",
+"v": [
+"Conseil d'État"
+]
+},
+{
+"t": "Lex specialis",
+"d": "Adage selon lequel la règle spéciale l'emporte sur la règle générale.",
+"c": "raisonnement-juridique",
+"v": [
+"Adage",
+"Hiérarchie des normes"
+]
+},
+{
+"t": "Liberté d'association",
+"d": "Droit de se grouper sans autorisation préalable, garanti par la Constitution belge depuis 1831.",
+"c": "droits-humains",
+"v": [
+"Liberté de réunion"
+]
+},
+{
+"t": "Liberté d'expression",
+"d": "Droit de communiquer des idées et informations sans censure préalable, sous réserve des responsabilités ultérieures prévues par la loi.",
+"c": "droits-humains",
+"v": [
+"Délit de presse",
+"Test de proportionnalité"
+]
+},
+{
+"t": "Liberté de réunion",
+"d": "Droit de se rassembler pacifiquement. Peut être soumis à déclaration préalable, mais une interdiction générale est en principe disproportionnée.",
+"c": "droits-humains",
+"v": [
+"Liberté d'association",
+"Test de proportionnalité"
+]
+},
+{
+"t": "Loi",
+"d": "Norme adoptée par le pouvoir législatif fédéral et sanctionnée par le Roi. Publiée au Moniteur belge.",
+"c": "sources-du-droit",
+"v": [
+"Décret",
+"Ordonnance",
+"Sanction royale"
+]
+},
+{
+"t": "Loi spéciale",
+"d": "Loi adoptée à une majorité renforcée, notamment dans chaque groupe linguistique. Fixe l'essentiel de l'architecture fédérale.",
+"c": "belgique-federale",
+"v": [
+"Majorité spéciale",
+"Compétences exclusives"
+]
+},
+{
+"t": "Majorité spéciale",
+"d": "Condition de vote exigeant la majorité dans chaque groupe linguistique et deux tiers des suffrages exprimés.",
+"c": "belgique-federale",
+"v": [
+"Loi spéciale",
+"Sonnette d'alarme"
+]
+},
+{
+"t": "Mandat d'arrêt",
+"d": "Décision du juge d'instruction plaçant une personne en détention préventive. Doit être confirmé par la chambre du conseil dans les cinq jours.",
+"c": "proces-penal",
+"v": [
+"Détention préventive",
+"Arrestation"
+]
+},
+{
+"t": "Marge d'appréciation",
+"d": "Latitude reconnue par la Cour européenne des droits de l'homme aux États, variable selon le droit en cause et l'existence d'un consensus européen.",
+"c": "conseil-de-l-europe",
+"v": [
+"Cour européenne des droits de l'homme",
+"Proportionnalité"
+]
+},
+{
+"t": "Médiation",
+"d": "Processus volontaire et confidentiel dans lequel un tiers neutre aide les parties à construire elles-mêmes leur solution.",
+"c": "regler-autrement",
+"v": [
+"Homologation",
+"Conciliation"
+]
+},
+{
+"t": "Médiation pénale",
+"d": "Mesure proposée par le parquet — réparation, formation, traitement, travail — dont l'exécution éteint l'action publique.",
+"c": "proces-penal",
+"v": [
+"Transaction pénale",
+"Classement sans suite"
+]
+},
+{
+"t": "Ministère public",
+"d": "Corps de magistrats qui exerce l'action publique au nom de la société. Hiérarchisé et amovible, contrairement aux juges du siège.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Procureur du Roi",
+"Action publique"
+]
+},
+{
+"t": "Mise en demeure",
+"d": "Sommation adressée au débiteur d'exécuter son obligation. Fait courir les intérêts de retard et constitue parfois une condition légale pour agir.",
+"c": "proces-civil",
+"v": []
+},
+{
+"t": "Mise en état",
+"d": "Phase de préparation du procès civil : calendrier d'échange des conclusions, communication des pièces, fixation des plaidoiries.",
+"c": "proces-civil",
+"v": [
+"Conclusions",
+"Contradictoire"
+]
+},
+{
+"t": "Moniteur belge",
+"d": "Journal officiel où sont publiées les normes. La publication conditionne leur caractère obligatoire.",
+"c": "sources-du-droit",
+"v": [
+"Entrée en vigueur",
+"Publication"
+]
+},
+{
+"t": "Motion de méfiance constructive",
+"d": "Vote par lequel la Chambre renverse le gouvernement tout en désignant simultanément un successeur. Ce mécanisme évite les vides de pouvoir.",
+"c": "institutions-federales",
+"v": [
+"Question de confiance"
+]
+},
+{
+"t": "Motivation",
+"d": "Obligation pour le juge et pour l'administration d'exposer les raisons de fait et de droit de leur décision. Condition de son contrôle.",
+"c": "raisonnement-juridique",
+"v": [
+"Jugement",
+"Acte administratif"
+]
+},
+{
+"t": "Non-discrimination",
+"d": "Interdiction de traiter défavorablement une personne sur la base d'un critère protégé, sans justification admise par la loi.",
+"c": "egalite-non-discrimination",
+"v": [
+"Discrimination directe",
+"Critère protégé"
+]
+},
+{
+"t": "Non-lieu",
+"d": "Décision d'une juridiction d'instruction estimant qu'il n'y a pas matière à renvoyer devant une juridiction de jugement.",
+"c": "proces-penal",
+"v": [
+"Chambre du conseil",
+"Acquittement"
+]
+},
+{
+"t": "Non-rétroactivité",
+"d": "Principe selon lequel une norme ne régit que l'avenir. En matière pénale, il est absolu, sauf loi plus douce.",
+"c": "etat-de-droit",
+"v": [
+"Légalité (principe de)",
+"Sécurité juridique"
+]
+},
+{
+"t": "Norme impérative",
+"d": "Règle à laquelle les parties ne peuvent pas déroger par contrat, souvent édictée pour protéger la partie faible.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Norme supplétive",
+"Ordre public"
+]
+},
+{
+"t": "Norme supplétive",
+"d": "Règle qui ne s'applique qu'à défaut de volonté contraire des parties. Elle comble les silences du contrat.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Norme impérative",
+"Contrat"
+]
+},
+{
+"t": "Notaire",
+"d": "Officier public qui confère l'authenticité aux actes, avec un devoir de conseil impartial envers toutes les parties.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Acte authentique"
+]
+},
+{
+"t": "Nullité",
+"d": "Sanction frappant un acte qui ne respecte pas une condition de validité. Elle peut être absolue ou relative.",
+"c": "proces-civil",
+"v": [
+"Citation"
+]
+},
+{
+"t": "Obligation positive",
+"d": "Devoir pour l'État d'agir — protéger, organiser, financer — pour rendre un droit effectif, et non seulement de s'abstenir.",
+"c": "droits-humains",
+"v": [
+"Droits humains",
+"Standstill"
+]
+},
+{
+"t": "ONU",
+"d": "Organisation des Nations unies, créée en 1945 et rassemblant 193 États. Ses buts principaux sont le maintien de la paix et la coopération internationale.",
+"c": "droit-international-onu",
+"v": [
+"Conseil de sécurité",
+"Assemblée générale des Nations unies"
+]
+},
+{
+"t": "Opportunité des poursuites",
+"d": "Pouvoir du parquet de décider s'il engage ou non des poursuites, encadré par des directives de politique criminelle.",
+"c": "proces-penal",
+"v": [
+"Classement sans suite",
+"Ministère public"
+]
+},
+{
+"t": "Opposition",
+"d": "Voie de recours ouverte à la partie condamnée par défaut, qui fait rejuger l'affaire devant la même juridiction.",
+"c": "proces-civil",
+"v": [
+"Défaut",
+"Appel"
+]
+},
+{
+"t": "Ordonnance",
+"d": "Norme législative de la Région de Bruxelles-Capitale, équivalente au décret mais soumise à un contrôle juridictionnel supplémentaire.",
+"c": "belgique-federale",
+"v": [
+"Décret",
+"Loi"
+]
+},
+{
+"t": "Ordre public",
+"d": "Ensemble des règles jugées essentielles à la société, auxquelles les particuliers ne peuvent pas déroger par convention.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Norme impérative",
+"Norme supplétive"
+]
+},
+{
+"t": "Organisation internationale",
+"d": "Entité créée par des États au moyen d'un traité, dotée d'organes propres et de la personnalité juridique internationale.",
+"c": "droit-international-onu",
+"v": [
+"ONU",
+"Souveraineté"
+]
+},
+{
+"t": "Parlement européen",
+"d": "Assemblée élue au suffrage universel direct dans les États membres. Colégislateur avec le Conseil et titulaire du contrôle politique.",
+"c": "union-europeenne",
+"v": [
+"Codécision",
+"Commission européenne"
+]
+},
+{
+"t": "Parquet",
+"d": "Autre nom du ministère public près une juridiction. Dirigé par le procureur du Roi ou le procureur général.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Ministère public",
+"Procureur du Roi"
+]
+},
+{
+"t": "Parquet fédéral",
+"d": "Parquet compétent pour les affaires transfrontalières, le terrorisme, la criminalité organisée et certaines infractions graves.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Ministère public"
+]
+},
+{
+"t": "Partie civile",
+"d": "Victime qui s'est constituée partie au procès pénal pour obtenir réparation. Elle peut demander des devoirs et plaider.",
+"c": "proces-penal",
+"v": [
+"Constitution de partie civile",
+"Action civile"
+]
+},
+{
+"t": "Personnalité juridique",
+"d": "Aptitude à être titulaire de droits et d'obligations. Reconnue aux personnes physiques et à certaines personnes morales.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Personne morale"
+]
+},
+{
+"t": "Personne lésée",
+"d": "Statut obtenu par simple déclaration au parquet : la victime est informée des suites et peut déposer des pièces.",
+"c": "proces-penal",
+"v": [
+"Partie civile"
+]
+},
+{
+"t": "Personne morale",
+"d": "Groupement doté de la personnalité juridique : société, association, commune, État. Distinct de ses membres.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Personnalité juridique"
+]
+},
+{
+"t": "Plénitude de juridiction",
+"d": "Compétence de principe du tribunal de première instance pour tout ce qui n'est pas attribué à une autre juridiction.",
+"c": "organisation-judiciaire",
+"v": [
+"Tribunal de première instance"
+]
+},
+{
+"t": "Pourvoi en cassation",
+"d": "Recours contre une décision rendue en dernier ressort, portant uniquement sur la légalité et les formes.",
+"c": "organisation-judiciaire",
+"v": [
+"Cour de cassation",
+"Renvoi"
+]
+},
+{
+"t": "Pouvoir constituant",
+"d": "Pouvoir d'établir ou de réviser la Constitution. En Belgique, sa mise en œuvre suppose une déclaration de révision, une dissolution puis un vote à majorité qualifiée.",
+"c": "etat-et-constitution",
+"v": [
+"Révision constitutionnelle"
+]
+},
+{
+"t": "Pouvoir exécutif",
+"d": "Pouvoir chargé d'exécuter les lois et de conduire la politique de l'État. Exercé par le Roi et le gouvernement au niveau fédéral.",
+"c": "institutions-federales",
+"v": [
+"Séparation des pouvoirs",
+"Arrêté royal"
+]
+},
+{
+"t": "Pouvoir judiciaire",
+"d": "Pouvoir chargé de trancher les litiges et d'appliquer les peines. Exercé par les cours et tribunaux, indépendants.",
+"c": "institutions-federales",
+"v": [
+"Indépendance",
+"Séparation des pouvoirs"
+]
+},
+{
+"t": "Pouvoir législatif",
+"d": "Pouvoir d'adopter les normes législatives. Au fédéral, exercé conjointement par la Chambre, le Sénat pour certaines matières, et le Roi.",
+"c": "institutions-federales",
+"v": [
+"Chambre des représentants",
+"Sanction royale"
+]
+},
+{
+"t": "Précédent",
+"d": "Décision antérieure invoquée comme modèle. En Belgique, il n'oblige pas juridiquement mais exerce une autorité de fait.",
+"c": "raisonnement-juridique",
+"v": [
+"Jurisprudence"
+]
+},
+{
+"t": "Prescription",
+"d": "Extinction d'un droit ou d'une action par l'écoulement du temps. Le délai de droit commun des actions personnelles est de dix ans.",
+"c": "proces-civil",
+"v": [
+"Délai de recours"
+]
+},
+{
+"t": "Présomption",
+"d": "Déduction d'un fait inconnu à partir d'un fait connu. Légale ou de fait, réfragable ou irréfragable.",
+"c": "raisonnement-juridique",
+"v": [
+"Preuve",
+"Présomption d'innocence"
+]
+},
+{
+"t": "Présomption d'innocence",
+"d": "Règle imposant que toute personne poursuivie soit tenue pour innocente jusqu'à preuve contraire. Le doute lui profite.",
+"c": "proces-penal",
+"v": [
+"Charge de la preuve",
+"Droit au silence"
+]
+},
+{
+"t": "Preuve",
+"d": "Démonstration de l'exactitude d'un fait. Libre en matière pénale et entre entreprises, plus encadrée entre particuliers pour les actes juridiques.",
+"c": "raisonnement-juridique",
+"v": [
+"Charge de la preuve",
+"Acte authentique"
+]
+},
+{
+"t": "Primauté",
+"d": "Principe selon lequel le droit de l'Union européenne prime sur le droit national contraire, y compris constitutionnel selon la Cour de justice.",
+"c": "union-europeenne",
+"v": [
+"Effet direct",
+"Hiérarchie des normes"
+]
+},
+{
+"t": "Procès équitable",
+"d": "Ensemble de garanties : tribunal indépendant et impartial établi par la loi, publicité, délai raisonnable, contradictoire, égalité des armes, motivation.",
+"c": "etat-de-droit",
+"v": [
+"Contradictoire",
+"Impartialité"
+]
+},
+{
+"t": "Procureur du Roi",
+"d": "Chef du parquet près le tribunal de première instance. Dirige l'information et décide de l'opportunité des poursuites.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Ministère public",
+"Substitut"
+]
+},
+{
+"t": "Projet de loi",
+"d": "Texte déposé au Parlement par le gouvernement. Précédé d'un avis du Conseil d'État.",
+"c": "fabrication-de-la-loi",
+"v": [
+"Proposition de loi",
+"Amendement"
+]
+},
+{
+"t": "Promulgation",
+"d": "Acte par lequel le Roi atteste l'existence de la loi et en ordonne l'exécution.",
+"c": "fabrication-de-la-loi",
+"v": [
+"Sanction royale",
+"Publication"
+]
+},
+{
+"t": "Proportionnalité",
+"d": "Exigence qu'une mesure restrictive soit apte, nécessaire et équilibrée par rapport au but poursuivi. Cœur du contrôle des libertés.",
+"c": "droits-humains",
+"v": [
+"Test de proportionnalité",
+"Marge d'appréciation"
+]
+},
+{
+"t": "Proposition de loi",
+"d": "Texte déposé au Parlement par un ou plusieurs parlementaires.",
+"c": "fabrication-de-la-loi",
+"v": [
+"Projet de loi"
+]
+},
+{
+"t": "Province",
+"d": "Collectivité intermédiaire entre la région et la commune, dotée d'un conseil élu et d'un collège. Il en existe dix.",
+"c": "communes-et-provinces",
+"v": [
+"Commune",
+"Gouverneur"
+]
+},
+{
+"t": "Publication",
+"d": "Insertion d'une norme au Moniteur belge, condition de son opposabilité. Nul n'est censé ignorer une loi publiée.",
+"c": "sources-du-droit",
+"v": [
+"Moniteur belge",
+"Entrée en vigueur"
+]
+},
+{
+"t": "Publicité des audiences",
+"d": "Principe selon lequel les débats et le prononcé sont publics, garantie contre la justice secrète.",
+"c": "proces-penal",
+"v": [
+"Huis clos",
+"Procès équitable"
+]
+},
+{
+"t": "Question de confiance",
+"d": "Procédure par laquelle le gouvernement demande à la Chambre de confirmer son soutien. Un refus entraîne sa démission.",
+"c": "institutions-federales",
+"v": [
+"Motion de méfiance constructive"
+]
+},
+{
+"t": "Question préjudicielle",
+"d": "Question posée par un juge à la Cour constitutionnelle ou à la Cour de justice de l'Union avant de trancher. La réponse s'impose à lui.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Cour constitutionnelle",
+"Renvoi préjudiciel"
+]
+},
+{
+"t": "Ratification",
+"d": "Acte par lequel un État exprime définitivement son consentement à être lié par un traité. En Belgique, elle suppose l'assentiment des assemblées compétentes.",
+"c": "droit-international-onu",
+"v": [
+"Traité"
+]
+},
+{
+"t": "Recours en annulation",
+"d": "Recours visant à faire disparaître rétroactivement une norme ou un acte. Devant la Cour constitutionnelle ou le Conseil d'État selon la nature de l'acte.",
+"c": "controler-les-pouvoirs-publics",
+"v": [
+"Annulation",
+"Intérêt à agir"
+]
+},
+{
+"t": "Recours en manquement",
+"d": "Procédure par laquelle la Commission ou un État attrait un État membre devant la Cour de justice pour violation du droit de l'Union.",
+"c": "union-europeenne",
+"v": [
+"Commission européenne"
+]
+},
+{
+"t": "Récusation",
+"d": "Demande d'écarter un juge d'une affaire pour un motif légal mettant en doute son impartialité.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Impartialité",
+"Déport"
+]
+},
+{
+"t": "Référé",
+"d": "Procédure d'urgence permettant d'obtenir des mesures provisoires. Le juge ne peut pas trancher définitivement le fond.",
+"c": "proces-civil",
+"v": [
+"Requête unilatérale",
+"Action en cessation"
+]
+},
+{
+"t": "Référendum",
+"d": "Consultation dont le résultat est juridiquement contraignant. Inexistant en Belgique au niveau national, où seules des consultations populaires non contraignantes sont admises.",
+"c": "democratie",
+"v": [
+"Consultation populaire"
+]
+},
+{
+"t": "Reformatio in pejus",
+"d": "Aggravation du sort de l'appelant. Interdite lorsque seul le condamné a interjeté appel.",
+"c": "proces-penal",
+"v": [
+"Appel",
+"Effet dévolutif"
+]
+},
+{
+"t": "Région",
+"d": "Entité fédérée compétente pour les matières liées au territoire : aménagement, environnement, économie, logement, transports, pouvoirs locaux. Il y en a trois.",
+"c": "belgique-federale",
+"v": [
+"Communauté",
+"Compétences exclusives"
+]
+},
+{
+"t": "Règlement communal",
+"d": "Norme générale adoptée par le conseil communal dans les limites de ses compétences et sous le contrôle de la tutelle.",
+"c": "communes-et-provinces",
+"v": [
+"Conseil communal",
+"Tutelle"
+]
+},
+{
+"t": "Règlement européen",
+"d": "Acte de l'Union directement applicable dans tous les États membres, sans transposition.",
+"c": "union-europeenne",
+"v": [
+"Directive",
+"Effet direct"
+]
+},
+{
+"t": "Réhabilitation",
+"d": "Mesure judiciaire qui efface, sous conditions, les effets d'une condamnation et la fait disparaître de l'extrait de casier judiciaire.",
+"c": "proces-penal",
+"v": [
+"Casier judiciaire",
+"Suspension du prononcé"
+]
+},
+{
+"t": "Renvoi",
+"d": "Décision de la Cour de cassation, après cassation, qui confie l'affaire à une autre juridiction du même degré pour être rejugée.",
+"c": "organisation-judiciaire",
+"v": [
+"Cassation"
+]
+},
+{
+"t": "Renvoi préjudiciel",
+"d": "Mécanisme par lequel un juge national interroge la Cour de justice sur l'interprétation ou la validité du droit de l'Union.",
+"c": "union-europeenne",
+"v": [
+"Cour de justice de l'Union européenne"
+]
+},
+{
+"t": "Requête contradictoire",
+"d": "Mode d'introduction d'une instance par dépôt d'un écrit au greffe, qui convoque lui-même la partie adverse.",
+"c": "proces-civil",
+"v": [
+"Citation"
+]
+},
+{
+"t": "Requête unilatérale",
+"d": "Demande présentée sans que l'adversaire soit entendu, réservée aux cas d'absolue nécessité. Le tiers peut y faire opposition.",
+"c": "proces-civil",
+"v": [
+"Référé",
+"Contradictoire"
+]
+},
+{
+"t": "Responsabilité",
+"d": "Obligation de réparer le dommage causé à autrui, par un manquement contractuel ou par une faute extracontractuelle.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Faute",
+"Force majeure"
+]
+},
+{
+"t": "Ressort",
+"d": "Étendue territoriale de la compétence d'une juridiction. Aussi : degré auquel une décision est rendue — premier ou dernier ressort.",
+"c": "organisation-judiciaire",
+"v": [
+"Arrondissement judiciaire",
+"Appel"
+]
+},
+{
+"t": "Révision constitutionnelle",
+"d": "Procédure en trois temps : déclaration de révision, dissolution des chambres, vote du nouveau constituant à la majorité des deux tiers.",
+"c": "etat-et-constitution",
+"v": [
+"Pouvoir constituant"
+]
+},
+{
+"t": "Rôle",
+"d": "Registre du tribunal où les affaires sont inscrites. La mise au rôle suppose le paiement d'un droit.",
+"c": "proces-civil",
+"v": [
+"Greffe"
+]
+},
+{
+"t": "Saisie",
+"d": "Mesure d'exécution portant sur les biens du débiteur : mobilière, immobilière ou entre les mains d'un tiers. Certains biens et revenus sont protégés.",
+"c": "proces-civil",
+"v": [
+"Huissier de justice",
+"Juge des saisies"
+]
+},
+{
+"t": "Saisie conservatoire",
+"d": "Blocage de biens autorisé par le juge des saisies avant tout jugement, en cas d'urgence et de créance certaine.",
+"c": "proces-civil",
+"v": [
+"Saisie"
+]
+},
+{
+"t": "Sanction",
+"d": "Conséquence organisée du non-respect d'une règle : nullité, dommages et intérêts, amende, peine, exécution forcée.",
+"c": "quest-ce-que-le-droit",
+"v": [
+"Force obligatoire"
+]
+},
+{
+"t": "Sanction royale",
+"d": "Approbation de la loi par le Roi, contresignée par un ministre. Étape nécessaire avant la promulgation.",
+"c": "fabrication-de-la-loi",
+"v": [
+"Promulgation",
+"Contreseing"
+]
+},
+{
+"t": "Secret professionnel",
+"d": "Obligation de ne pas révéler ce que l'on apprend dans l'exercice de sa profession. Pour l'avocat, il protège le client et est pénalement sanctionné.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Avocat"
+]
+},
+{
+"t": "Sécurité juridique",
+"d": "Exigence que le droit soit accessible, prévisible et stable, afin que chacun puisse régler sa conduite.",
+"c": "etat-de-droit",
+"v": [
+"Non-rétroactivité",
+"Confiance légitime"
+]
+},
+{
+"t": "Sénat",
+"d": "Assemblée fédérale de 60 membres, composée pour l'essentiel de délégués des parlements des entités fédérées. Compétences limitées depuis la sixième réforme de l'État.",
+"c": "institutions-federales",
+"v": [
+"Chambre des représentants",
+"Bicamérisme"
+]
+},
+{
+"t": "Sentence arbitrale",
+"d": "Décision rendue par un arbitre. A l'autorité de chose jugée entre les parties et devient exécutoire par l'exequatur.",
+"c": "regler-autrement",
+"v": [
+"Arbitrage",
+"Exequatur"
+]
+},
+{
+"t": "Séparation des pouvoirs",
+"d": "Répartition des fonctions étatiques entre organes distincts qui se contrôlent mutuellement. En Belgique, elle est souple plutôt qu'étanche.",
+"c": "etat-de-droit",
+"v": [
+"Pouvoir législatif",
+"Pouvoir exécutif",
+"Pouvoir judiciaire"
+]
+},
+{
+"t": "Signification",
+"d": "Remise officielle d'un acte par huissier. Elle donne date certaine et fait courir les délais de recours.",
+"c": "proces-civil",
+"v": [
+"Huissier de justice",
+"Délai de recours"
+]
+},
+{
+"t": "Sonnette d'alarme",
+"d": "Procédure permettant à trois quarts des membres d'un groupe linguistique de suspendre l'examen d'un texte jugé attentatoire aux relations entre communautés.",
+"c": "belgique-federale",
+"v": [
+"Majorité spéciale"
+]
+},
+{
+"t": "Souveraineté",
+"d": "Pouvoir suprême d'un État sur son territoire et sa population, et indépendance dans l'ordre international.",
+"c": "droit-international-onu",
+"v": [
+"Organisation internationale"
+]
+},
+{
+"t": "Standstill",
+"d": "Effet interdisant au législateur de réduire sensiblement le niveau de protection existant d'un droit social sans justification.",
+"c": "droits-humains",
+"v": [
+"Obligation positive"
+]
+},
+{
+"t": "Subsidiarité",
+"d": "Principe selon lequel l'Union n'intervient, hors compétences exclusives, que si l'objectif ne peut pas être mieux atteint au niveau des États.",
+"c": "union-europeenne",
+"v": [
+"Proportionnalité"
+]
+},
+{
+"t": "Substitut",
+"d": "Magistrat du parquet exerçant les fonctions du ministère public sous l'autorité du procureur du Roi.",
+"c": "acteurs-de-la-justice",
+"v": [
+"Procureur du Roi"
+]
+},
+{
+"t": "Sursis",
+"d": "Mesure suspendant l'exécution de tout ou partie d'une peine, à condition qu'aucune nouvelle infraction ne soit commise pendant le délai d'épreuve.",
+"c": "proces-penal",
+"v": [
+"Suspension du prononcé"
+]
+},
+{
+"t": "Suspension du prononcé",
+"d": "Mesure par laquelle le juge déclare les faits établis mais ne prononce pas de peine. Évite l'inscription sur l'extrait de casier judiciaire.",
+"c": "proces-penal",
+"v": [
+"Sursis",
+"Casier judiciaire"
+]
+},
+{
+"t": "Test de proportionnalité",
+"d": "Contrôle en trois temps d'une restriction à un droit : base légale, but légitime, nécessité dans une société démocratique.",
+"c": "droits-humains",
+"v": [
+"Proportionnalité",
+"Droits humains"
+]
+},
+{
+"t": "Traité",
+"d": "Accord écrit entre sujets de droit international, régi par le droit international. Doit être approuvé par les assemblées compétentes avant de lier la Belgique.",
+"c": "droit-international-onu",
+"v": [
+"Effet direct",
+"Ratification"
+]
+},
+{
+"t": "Transaction",
+"d": "Contrat par lequel les parties terminent un différend au moyen de concessions réciproques. A entre elles l'autorité de chose jugée.",
+"c": "regler-autrement",
+"v": [
+"Autorité de chose jugée",
+"Médiation"
+]
+},
+{
+"t": "Transaction pénale",
+"d": "Paiement d'une somme proposé par le parquet, qui éteint l'action publique. Suppose la réparation du dommage et l'aval d'un juge.",
+"c": "proces-penal",
+"v": [
+"Médiation pénale",
+"Classement sans suite"
+]
+},
+{
+"t": "Transposition",
+"d": "Adoption par un État des mesures internes nécessaires pour atteindre le résultat prescrit par une directive.",
+"c": "union-europeenne",
+"v": [
+"Directive",
+"Recours en manquement"
+]
+},
+{
+"t": "Tribunal correctionnel",
+"d": "Section pénale du tribunal de première instance, compétente pour les infractions de gravité moyenne. Juge aussi les appels du tribunal de police.",
+"c": "organisation-judiciaire",
+"v": [
+"Tribunal de police",
+"Cour d'appel"
+]
+},
+{
+"t": "Tribunal de l'application des peines",
+"d": "Juridiction qui décide des modalités d'exécution des peines privatives de liberté : libération conditionnelle, surveillance électronique, détention limitée.",
+"c": "organisation-judiciaire",
+"v": []
+},
+{
+"t": "Tribunal de l'entreprise",
+"d": "Juridiction compétente pour les litiges entre entreprises. Siège avec un magistrat et deux juges consulaires.",
+"c": "organisation-judiciaire",
+"v": [
+"Juges consulaires"
+]
+},
+{
+"t": "Tribunal de la famille et de la jeunesse",
+"d": "Section du tribunal de première instance regroupant le contentieux familial et la protection de la jeunesse.",
+"c": "organisation-judiciaire",
+"v": [
+"Tribunal de première instance"
+]
+},
+{
+"t": "Tribunal de police",
+"d": "Juridiction compétente pour les infractions les moins graves et pour l'ensemble du contentieux de la circulation routière.",
+"c": "organisation-judiciaire",
+"v": [
+"Tribunal correctionnel"
+]
+},
+{
+"t": "Tribunal de première instance",
+"d": "Juridiction de droit commun de l'arrondissement, comprenant les sections civile, familiale et jeunesse, correctionnelle et l'application des peines.",
+"c": "organisation-judiciaire",
+"v": [
+"Plénitude de juridiction"
+]
+},
+{
+"t": "Tribunal du travail",
+"d": "Juridiction compétente pour les litiges de droit du travail et de sécurité sociale. Siège avec deux juges sociaux.",
+"c": "organisation-judiciaire",
+"v": [
+"Juges sociaux",
+"Cour du travail"
+]
+},
+{
+"t": "Tutelle",
+"d": "Contrôle exercé par une autorité supérieure sur les actes des pouvoirs locaux : approbation, suspension ou annulation.",
+"c": "communes-et-provinces",
+"v": [
+"Règlement communal",
+"Province"
+]
+},
+{
+"t": "Unia",
+"d": "Institution publique indépendante chargée de lutter contre les discriminations fondées sur la plupart des critères protégés, hors genre.",
+"c": "egalite-non-discrimination",
+"v": [
+"Discrimination directe"
+]
+},
+{
+"t": "Veto",
+"d": "Pouvoir des cinq membres permanents du Conseil de sécurité de bloquer l'adoption d'une résolution de fond.",
+"c": "droit-international-onu",
+"v": [
+"Conseil de sécurité",
+"Chapitre VII"
+]
+},
+{
+"t": "Vote obligatoire",
+"d": "Obligation légale de se présenter au bureau de vote. Le secret du scrutin implique qu'aucun contenu de vote n'est imposé.",
+"c": "democratie",
+"v": [
+"Démocratie représentative"
+]
+}
+]

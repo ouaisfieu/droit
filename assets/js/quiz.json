@@ -1,0 +1,1614 @@
+[
+{
+"th": "Comprendre le droit",
+"q": "Qu'est-ce qui distingue le plus nettement une règle de droit d'une règle de politesse ?",
+"o": [
+"Elle est plus ancienne",
+"Elle est assortie d'une contrainte organisée par la société",
+"Elle est enseignée à l'école",
+"Elle est écrite"
+],
+"a": 1,
+"e": "Beaucoup de règles sociales sont écrites et anciennes. Le propre de la règle de droit est que son non-respect déclenche une sanction organisée par la collectivité.",
+"c": "quest-ce-que-le-droit"
+},
+{
+"th": "Comprendre le droit",
+"q": "Le droit objectif désigne :",
+"o": [
+"L'ensemble des règles qui régissent la vie en société",
+"Le droit rendu par un juge impartial",
+"Le droit international",
+"Un droit dont on est titulaire"
+],
+"a": 0,
+"e": "Le droit objectif est le corps de règles ; le droit subjectif est la prérogative individuelle qu'il reconnaît.",
+"c": "quest-ce-que-le-droit"
+},
+{
+"th": "Comprendre le droit",
+"q": "Une norme supplétive :",
+"o": [
+"Ne s'applique qu'à défaut de volonté contraire des parties",
+"Ne s'applique qu'aux commerçants",
+"S'impose absolument aux parties",
+"Est une norme de rang constitutionnel"
+],
+"a": 0,
+"e": "La norme supplétive comble les silences du contrat. La norme impérative, elle, ne peut pas être écartée.",
+"c": "quest-ce-que-le-droit"
+},
+{
+"th": "Comprendre le droit",
+"q": "En droit belge, la coutume est :",
+"o": [
+"Une source résiduelle en droit interne, mais essentielle en droit international",
+"Réservée au droit pénal",
+"La source principale du droit",
+"Interdite depuis 1831"
+],
+"a": 0,
+"e": "Le droit belge est largement écrit. La coutume garde en revanche un rôle central en droit international public.",
+"c": "sources-du-droit"
+},
+{
+"th": "Comprendre le droit",
+"q": "Que trouve-t-on dans les travaux préparatoires d'une loi ?",
+"o": [
+"Les arrêtés d'exécution",
+"L'exposé des motifs et les discussions parlementaires",
+"Les décisions de justice l'appliquant",
+"Le texte consolidé"
+],
+"a": 1,
+"e": "Les travaux préparatoires servent à l'interprétation historique : ils révèlent l'intention de l'auteur de la norme.",
+"c": "sources-du-droit"
+},
+{
+"th": "Comprendre le droit",
+"q": "Quelle est la différence entre abrogation et annulation ?",
+"o": [
+"L'abrogation vaut pour l'avenir, l'annulation efface rétroactivement",
+"L'annulation vaut pour l'avenir, l'abrogation rétroagit",
+"Aucune, ce sont des synonymes",
+"L'abrogation ne concerne que les arrêtés"
+],
+"a": 0,
+"e": "L'abrogation supprime la norme pour l'avenir ; l'annulation la fait disparaître comme si elle n'avait jamais existé.",
+"c": "sources-du-droit"
+},
+{
+"th": "Comprendre le droit",
+"q": "Sauf disposition contraire, une norme entre en vigueur :",
+"o": [
+"Le jour de son adoption",
+"Le jour de sa publication",
+"Dix jours après sa publication au Moniteur belge",
+"Un mois après sa signature"
+],
+"a": 2,
+"e": "Le délai de droit commun est de dix jours après publication, mais de très nombreux textes fixent leur propre date.",
+"c": "sources-du-droit"
+},
+{
+"th": "Comprendre le droit",
+"q": "La doctrine est :",
+"o": [
+"La jurisprudence de la Cour de cassation",
+"L'ensemble des travaux des auteurs qui commentent le droit",
+"Une source obligatoire du droit",
+"Le nom donné aux arrêtés royaux"
+],
+"a": 1,
+"e": "La doctrine a une autorité intellectuelle, pas une force normative.",
+"c": "sources-du-droit"
+},
+{
+"th": "Comprendre le droit",
+"q": "Quel adage exprime que la règle spéciale l'emporte sur la règle générale ?",
+"o": [
+"In dubio pro reo",
+"Lex superior derogat inferiori",
+"Lex posterior derogat priori",
+"Lex specialis derogat generali"
+],
+"a": 3,
+"e": "Trois adages structurent les conflits de normes : hiérarchie, spécialité, postériorité.",
+"c": "hierarchie-des-normes"
+},
+{
+"th": "Comprendre le droit",
+"q": "En cas de conflit entre une loi belge et une norme européenne directement applicable :",
+"o": [
+"La loi belge l'emporte car elle est nationale",
+"Le Roi arbitre le conflit",
+"La norme européenne prime et le juge écarte la loi",
+"Il faut saisir le Parlement pour trancher"
+],
+"a": 2,
+"e": "C'est le principe de primauté : le juge national écarte lui-même la norme interne contraire, sans attendre son abrogation.",
+"c": "hierarchie-des-normes"
+},
+{
+"th": "Comprendre le droit",
+"q": "Un arrêté royal peut-il contredire une loi ?",
+"o": [
+"Non, il doit rester dans les limites de la loi qu'il exécute",
+"Oui, si le Roi l'estime nécessaire",
+"Oui, s'il est plus récent",
+"Uniquement en période de crise"
+],
+"a": 0,
+"e": "L'arrêté royal est un acte d'exécution : il occupe un rang inférieur dans la hiérarchie des normes.",
+"c": "hierarchie-des-normes"
+},
+{
+"th": "Comprendre le droit",
+"q": "L'article 159 de la Constitution permet à un juge :",
+"o": [
+"De poser une question au gouvernement",
+"De réviser la Constitution",
+"D'annuler un arrêté illégal",
+"D'écarter l'application d'un acte administratif illégal dans l'affaire jugée"
+],
+"a": 3,
+"e": "L'annulation appartient au Conseil d'État. L'article 159 permet seulement d'écarter l'acte pour le litige en cours.",
+"c": "controler-les-pouvoirs-publics"
+},
+{
+"th": "L'État belge",
+"q": "En quelle année la Constitution belge a-t-elle été adoptée ?",
+"o": [
+"1831",
+"1789",
+"1815",
+"1893"
+],
+"a": 0,
+"e": "Adoptée en 1831, elle figure parmi les plus anciennes constitutions encore en vigueur, malgré de nombreuses révisions.",
+"c": "etat-et-constitution"
+},
+{
+"th": "L'État belge",
+"q": "Combien de députés siègent à la Chambre des représentants ?",
+"o": [
+"212",
+"120",
+"181",
+"150"
+],
+"a": 3,
+"e": "La Chambre compte 150 membres, élus à la représentation proportionnelle pour cinq ans.",
+"c": "institutions-federales"
+},
+{
+"th": "L'État belge",
+"q": "Combien de membres compte le Sénat depuis la sixième réforme de l'État ?",
+"o": [
+"60",
+"50",
+"40",
+"71"
+],
+"a": 0,
+"e": "Le Sénat compte 60 membres, très majoritairement délégués par les parlements des entités fédérées.",
+"c": "institutions-federales"
+},
+{
+"th": "L'État belge",
+"q": "À quoi sert le contreseing ministériel ?",
+"o": [
+"À permettre la publication au Moniteur",
+"À vérifier l'orthographe de l'acte",
+"À informer le Parlement",
+"À transférer la responsabilité politique de l'acte royal au ministre"
+],
+"a": 3,
+"e": "La personne du Roi est inviolable : c'est le ministre qui contresigne qui répond politiquement de l'acte.",
+"c": "institutions-federales"
+},
+{
+"th": "L'État belge",
+"q": "Qu'est-ce qu'une motion de méfiance constructive ?",
+"o": [
+"Un vote de blâme sans conséquence",
+"Une demande de démission du Roi",
+"Un renversement du gouvernement avec désignation simultanée d'un successeur",
+"Une procédure de révision constitutionnelle"
+],
+"a": 2,
+"e": "Ce mécanisme évite les vides de pouvoir : on ne peut renverser qu'en proposant une alternative.",
+"c": "institutions-federales"
+},
+{
+"th": "L'État belge",
+"q": "Qui détient l'initiative d'un projet de loi ?",
+"o": [
+"Un citoyen",
+"Un parlementaire",
+"Le Conseil d'État",
+"Le gouvernement"
+],
+"a": 3,
+"e": "Le gouvernement dépose des projets ; les parlementaires déposent des propositions.",
+"c": "fabrication-de-la-loi"
+},
+{
+"th": "L'État belge",
+"q": "Quel organe rend un avis juridique sur les avant-projets de loi ?",
+"o": [
+"Le Comité de concertation",
+"La Cour constitutionnelle",
+"La section de législation du Conseil d'État",
+"La Cour de cassation"
+],
+"a": 2,
+"e": "La section de législation du Conseil d'État vérifie la légalité, la répartition des compétences et la qualité rédactionnelle.",
+"c": "fabrication-de-la-loi"
+},
+{
+"th": "L'État belge",
+"q": "Que fait le Roi après le vote d'une loi par le Parlement ?",
+"o": [
+"Il en vérifie la constitutionnalité",
+"Il la sanctionne et la promulgue",
+"Il la soumet à référendum",
+"Il la publie lui-même"
+],
+"a": 1,
+"e": "La sanction est l'approbation ; la promulgation atteste l'existence de la loi et en ordonne l'exécution.",
+"c": "fabrication-de-la-loi"
+},
+{
+"th": "L'État belge",
+"q": "Combien de communautés compte la Belgique ?",
+"o": [
+"Quatre",
+"Trois",
+"Six",
+"Deux"
+],
+"a": 1,
+"e": "Trois : française, flamande et germanophone. Elles sont compétentes pour les matières liées aux personnes.",
+"c": "belgique-federale"
+},
+{
+"th": "L'État belge",
+"q": "Quelles matières relèvent typiquement des régions ?",
+"o": [
+"L'enseignement et la culture",
+"La défense et la justice",
+"La sécurité sociale",
+"L'aménagement du territoire, l'environnement, l'économie, le logement"
+],
+"a": 3,
+"e": "Les régions gèrent ce qui est lié au territoire ; les communautés, ce qui est lié aux personnes.",
+"c": "belgique-federale"
+},
+{
+"th": "L'État belge",
+"q": "Existe-t-il une hiérarchie entre une loi fédérale et un décret ?",
+"o": [
+"Non, chacun est souverain dans son domaine de compétence",
+"Oui, la loi prime toujours",
+"Cela dépend de la date d'adoption",
+"Oui, le décret prime dans les régions"
+],
+"a": 0,
+"e": "C'est le principe d'exclusivité des compétences : pas de hiérarchie, mais une répartition. Les conflits sont tranchés par la Cour constitutionnelle.",
+"c": "belgique-federale"
+},
+{
+"th": "L'État belge",
+"q": "Qu'est-ce que la sonnette d'alarme ?",
+"o": [
+"Un recours devant la Cour constitutionnelle",
+"Une procédure permettant à trois quarts d'un groupe linguistique de suspendre l'examen d'un texte",
+"Un mécanisme de dissolution du Parlement",
+"Une procédure d'urgence budgétaire"
+],
+"a": 1,
+"e": "C'est un mécanisme de protection des minorités linguistiques, qui renvoie le texte au Conseil des ministres.",
+"c": "belgique-federale"
+},
+{
+"th": "L'État belge",
+"q": "Combien de provinces compte la Belgique ?",
+"o": [
+"Dix",
+"Neuf",
+"Douze",
+"Onze"
+],
+"a": 0,
+"e": "Dix provinces : cinq en Flandre, cinq en Wallonie. La Région de Bruxelles-Capitale n'appartient à aucune province.",
+"c": "communes-et-provinces"
+},
+{
+"th": "L'État belge",
+"q": "Qui dirige l'exécutif communal ?",
+"o": [
+"Le secrétaire communal",
+"Le bourgmestre, avec les échevins",
+"Le gouverneur",
+"Le président du conseil communal"
+],
+"a": 1,
+"e": "Le collège communal réunit le bourgmestre et les échevins ; le conseil communal est l'assemblée délibérante.",
+"c": "communes-et-provinces"
+},
+{
+"th": "L'État belge",
+"q": "La tutelle sur les communes consiste à :",
+"o": [
+"Nommer les échevins",
+"Organiser les élections",
+"Percevoir les taxes communales",
+"Contrôler les actes communaux, avec pouvoir d'approbation, de suspension ou d'annulation"
+],
+"a": 3,
+"e": "La tutelle est exercée par la région et permet un contrôle de légalité, parfois d'opportunité.",
+"c": "communes-et-provinces"
+},
+{
+"th": "L'État belge",
+"q": "Quelle juridiction annule un arrêté ministériel illégal ?",
+"o": [
+"Le Conseil d'État, section du contentieux administratif",
+"Le tribunal de première instance",
+"La Cour constitutionnelle",
+"La Cour de cassation"
+],
+"a": 0,
+"e": "La Cour constitutionnelle contrôle les normes législatives ; le Conseil d'État, les actes administratifs.",
+"c": "controler-les-pouvoirs-publics"
+},
+{
+"th": "L'État belge",
+"q": "Quel est le délai pour introduire un recours en annulation devant le Conseil d'État ?",
+"o": [
+"6 mois",
+"30 jours",
+"60 jours",
+"1 an"
+],
+"a": 2,
+"e": "Soixante jours à compter de la publication, de la notification ou de la prise de connaissance de l'acte.",
+"c": "controler-les-pouvoirs-publics"
+},
+{
+"th": "L'État belge",
+"q": "Quel est le délai pour un recours en annulation devant la Cour constitutionnelle ?",
+"o": [
+"3 mois",
+"60 jours",
+"1 an",
+"6 mois"
+],
+"a": 3,
+"e": "Six mois à compter de la publication de la norme au Moniteur belge, avec des délais particuliers dans certains cas.",
+"c": "controler-les-pouvoirs-publics"
+},
+{
+"th": "L'État belge",
+"q": "Quand un juge doit-il poser une question préjudicielle à la Cour constitutionnelle ?",
+"o": [
+"Uniquement en matière pénale",
+"Chaque fois qu'une loi est invoquée",
+"Lorsqu'un doute sérieux existe sur la conformité d'une norme législative au bloc de constitutionnalité",
+"Jamais, c'est facultatif en toutes circonstances"
+],
+"a": 2,
+"e": "L'obligation existe avec des exceptions, notamment lorsque la Cour s'est déjà prononcée sur une question identique.",
+"c": "controler-les-pouvoirs-publics"
+},
+{
+"th": "L'État belge",
+"q": "Le bloc de constitutionnalité comprend notamment :",
+"o": [
+"Le titre II, les articles 170, 172 et 191, et les règles répartitrices de compétences",
+"Toute la Constitution sans exception",
+"Uniquement les traités",
+"Les seuls arrêtés royaux"
+],
+"a": 0,
+"e": "C'est l'ensemble des normes de référence du contrôle exercé par la Cour constitutionnelle.",
+"c": "controler-les-pouvoirs-publics"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Combien d'États membres compte l'Union européenne ?",
+"o": [
+"46",
+"25",
+"27",
+"28"
+],
+"a": 2,
+"e": "Vingt-sept depuis le retrait du Royaume-Uni.",
+"c": "union-europeenne"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Quelle est la différence essentielle entre un règlement et une directive européens ?",
+"o": [
+"Le règlement est obligatoire, la directive ne l'est pas",
+"Le règlement est directement applicable, la directive doit être transposée",
+"La directive prime sur le règlement",
+"Le règlement ne concerne que l'agriculture"
+],
+"a": 1,
+"e": "La directive lie quant au résultat mais laisse aux États le choix des moyens.",
+"c": "union-europeenne"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Qui détient l'essentiel du pouvoir d'initiative législative dans l'Union ?",
+"o": [
+"La Commission européenne",
+"Le Parlement européen",
+"La Cour de justice",
+"Le Conseil européen"
+],
+"a": 0,
+"e": "La Commission propose ; le Parlement et le Conseil disposent, en procédure législative ordinaire.",
+"c": "union-europeenne"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Le renvoi préjudiciel permet à un juge national :",
+"o": [
+"D'interroger la Cour de justice sur l'interprétation ou la validité du droit de l'Union",
+"De saisir la Cour européenne des droits de l'homme",
+"De suspendre une loi nationale",
+"De faire appel d'une décision européenne"
+],
+"a": 0,
+"e": "C'est le mécanisme central du dialogue entre juges nationaux et Cour de justice ; la réponse s'impose au juge qui a posé la question.",
+"c": "union-europeenne"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Le Conseil de l'Europe et le Conseil européen sont :",
+"o": [
+"Deux noms d'une même institution",
+"Deux organisations totalement distinctes",
+"Deux juridictions",
+"Deux organes de l'ONU"
+],
+"a": 1,
+"e": "Le Conseil de l'Europe est une organisation de 46 États consacrée aux droits humains ; le Conseil européen est une institution de l'Union.",
+"c": "conseil-de-l-europe"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Combien d'États sont parties au Conseil de l'Europe ?",
+"o": [
+"46",
+"27",
+"193",
+"35"
+],
+"a": 0,
+"e": "Quarante-six, depuis l'exclusion de la Fédération de Russie.",
+"c": "conseil-de-l-europe"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Quelle condition doit remplir un requérant avant de saisir la Cour européenne des droits de l'homme ?",
+"o": [
+"Avoir déjà saisi la Cour de justice",
+"Avoir l'accord de son gouvernement",
+"Être ressortissant d'un État membre de l'Union",
+"Avoir épuisé les voies de recours internes"
+],
+"a": 3,
+"e": "L'épuisement des recours internes découle du caractère subsidiaire du système de Strasbourg.",
+"c": "conseil-de-l-europe"
+},
+{
+"th": "Au-delà des frontières",
+"q": "La théorie de l'instrument vivant signifie que :",
+"o": [
+"Seuls les États peuvent l'interpréter",
+"La Convention ne peut plus être modifiée",
+"Elle s'applique uniquement aux personnes vivantes",
+"La Convention est interprétée à la lumière des conditions actuelles"
+],
+"a": 3,
+"e": "Cette méthode évolutive a permis d'étendre considérablement la portée de garanties rédigées en 1950.",
+"c": "conseil-de-l-europe"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Combien d'États sont membres de l'ONU ?",
+"o": [
+"181",
+"206",
+"193",
+"150"
+],
+"a": 2,
+"e": "Cent quatre-vingt-treize États membres.",
+"c": "droit-international-onu"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Combien de membres permanents compte le Conseil de sécurité ?",
+"o": [
+"Cinq",
+"Quinze",
+"Trois",
+"Dix"
+],
+"a": 0,
+"e": "Cinq membres permanents disposant du droit de veto, sur quinze membres au total.",
+"c": "droit-international-onu"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Le jus cogens désigne :",
+"o": [
+"Le droit coutumier régional",
+"Les résolutions de l'Assemblée générale",
+"Des normes impératives auxquelles aucun traité ne peut déroger",
+"Le droit des traités"
+],
+"a": 2,
+"e": "Interdiction du génocide, de l'esclavage, de la torture, de l'agression : ces normes s'imposent à tous les États.",
+"c": "droit-international-onu"
+},
+{
+"th": "Au-delà des frontières",
+"q": "Pour lier la Belgique, un traité doit :",
+"o": [
+"Être visé par la Cour de cassation",
+"Être approuvé par référendum",
+"Recevoir l'assentiment des assemblées compétentes puis être ratifié",
+"Être publié dans un journal étranger"
+],
+"a": 2,
+"e": "En Belgique fédérale, l'assentiment doit être donné par toutes les assemblées compétentes pour les matières concernées.",
+"c": "droit-international-onu"
+},
+{
+"th": "Les grands principes",
+"q": "Que signifie la séparation des pouvoirs en Belgique ?",
+"o": [
+"L'indépendance des seules communes",
+"La primauté du pouvoir judiciaire",
+"Une étanchéité totale entre les trois pouvoirs",
+"Une répartition des fonctions avec des contrôles réciproques"
+],
+"a": 3,
+"e": "La séparation belge est souple : les pouvoirs collaborent et se contrôlent mutuellement.",
+"c": "etat-de-droit"
+},
+{
+"th": "Les grands principes",
+"q": "Le principe de légalité en matière pénale signifie que :",
+"o": [
+"Toute loi est légale",
+"Il n'y a ni infraction ni peine sans loi préalable",
+"Le juge peut créer des infractions",
+"La loi pénale rétroagit toujours"
+],
+"a": 1,
+"e": "C'est l'adage <em>nullum crimen, nulla poena sine lege</em>, qui exclut l'analogie en matière pénale.",
+"c": "etat-de-droit"
+},
+{
+"th": "Les grands principes",
+"q": "Le principe de sécurité juridique exige que le droit soit :",
+"o": [
+"Accessible, prévisible et stable",
+"Voté à l'unanimité",
+"Identique dans tous les pays",
+"Secret et technique"
+],
+"a": 0,
+"e": "Sans prévisibilité, il est impossible de régler sa conduite sur la règle.",
+"c": "etat-de-droit"
+},
+{
+"th": "Les grands principes",
+"q": "En Belgique, le référendum national contraignant :",
+"o": [
+"Est organisé tous les cinq ans",
+"N'existe pas ; seules des consultations populaires non contraignantes sont admises",
+"Remplace les élections législatives",
+"Est réservé aux questions fiscales"
+],
+"a": 1,
+"e": "La Constitution consacre un régime représentatif ; le référendum décisionnel national n'y a pas de place.",
+"c": "democratie"
+},
+{
+"th": "Les grands principes",
+"q": "Le vote est-il obligatoire en Belgique ?",
+"o": [
+"Uniquement pour les élections communales",
+"Non, il est facultatif",
+"Oui, la présence au bureau de vote est légalement obligatoire",
+"Uniquement pour les plus de 25 ans"
+],
+"a": 2,
+"e": "L'obligation porte sur la présence : le secret du scrutin garantit qu'aucun contenu de vote ne peut être imposé.",
+"c": "democratie"
+},
+{
+"th": "Les grands principes",
+"q": "La représentation proportionnelle a pour effet principal :",
+"o": [
+"De supprimer les circonscriptions",
+"De favoriser le bipartisme",
+"D'éliminer les petits partis",
+"De répartir les sièges selon les voix obtenues, favorisant le multipartisme et les coalitions"
+],
+"a": 3,
+"e": "C'est l'une des raisons pour lesquelles la Belgique est gouvernée par des coalitions.",
+"c": "democratie"
+},
+{
+"th": "Les grands principes",
+"q": "Lequel de ces droits est absolu, c'est-à-dire insusceptible de restriction ?",
+"o": [
+"L'interdiction de la torture",
+"Le droit à la vie privée",
+"Le droit de propriété",
+"La liberté d'expression"
+],
+"a": 0,
+"e": "L'interdiction de la torture ne souffre aucune exception, même en cas de guerre ou de menace terroriste.",
+"c": "droits-humains"
+},
+{
+"th": "Les grands principes",
+"q": "Combien de conditions cumulatives doit remplir une restriction à un droit relatif ?",
+"o": [
+"Trois",
+"Quatre",
+"Deux",
+"Une"
+],
+"a": 0,
+"e": "Base légale, but légitime, nécessité proportionnée dans une société démocratique.",
+"c": "droits-humains"
+},
+{
+"th": "Les grands principes",
+"q": "Que garantit l'article 23 de la Constitution ?",
+"o": [
+"L'inviolabilité du domicile",
+"Le droit de mener une vie conforme à la dignité humaine",
+"La liberté de la presse",
+"Le vote obligatoire"
+],
+"a": 1,
+"e": "Il couvre le travail, la sécurité sociale, le logement, la santé, l'aide juridique et l'environnement.",
+"c": "droits-humains"
+},
+{
+"th": "Les grands principes",
+"q": "L'effet de standstill interdit au législateur :",
+"o": [
+"D'adopter de nouvelles lois sociales",
+"De réduire sensiblement le niveau de protection existant sans justification",
+"De modifier la Constitution",
+"De transposer une directive"
+],
+"a": 1,
+"e": "Ce mécanisme protège les acquis en matière de droits économiques et sociaux.",
+"c": "droits-humains"
+},
+{
+"th": "Les grands principes",
+"q": "Que signifie l'obligation positive de l'État ?",
+"o": [
+"L'État doit agir pour protéger et rendre effectif un droit",
+"L'État doit consulter la population",
+"L'État doit toujours indemniser",
+"L'État doit s'abstenir d'intervenir"
+],
+"a": 0,
+"e": "Les obligations positives ont considérablement élargi la portée des droits fondamentaux.",
+"c": "droits-humains"
+},
+{
+"th": "Les grands principes",
+"q": "Une différence de traitement est admissible si :",
+"o": [
+"Elle repose sur un critère objectif, poursuit un but légitime et est pertinente et proportionnée",
+"Elle est prévue par une loi, quelle qu'elle soit",
+"Elle est acceptée par la majorité",
+"Elle concerne moins de mille personnes"
+],
+"a": 0,
+"e": "C'est le test d'égalité dégagé par la Cour constitutionnelle sur la base des articles 10 et 11.",
+"c": "egalite-non-discrimination"
+},
+{
+"th": "Les grands principes",
+"q": "Qu'est-ce qu'une discrimination indirecte ?",
+"o": [
+"Une discrimination commise par un intermédiaire",
+"Une discrimination commise à l'étranger",
+"Une règle neutre qui désavantage particulièrement un groupe protégé",
+"Un refus explicite fondé sur l'origine"
+],
+"a": 2,
+"e": "Elle peut être justifiée par un objectif légitime poursuivi par des moyens appropriés et nécessaires.",
+"c": "egalite-non-discrimination"
+},
+{
+"th": "Les grands principes",
+"q": "Le refus d'un aménagement raisonnable pour une personne handicapée est :",
+"o": [
+"Une forme de discrimination en soi",
+"Sans conséquence juridique",
+"Toujours licite",
+"Une faute contractuelle uniquement"
+],
+"a": 0,
+"e": "Sauf charge disproportionnée, l'aménagement est dû, et son refus injustifié constitue une discrimination.",
+"c": "egalite-non-discrimination"
+},
+{
+"th": "Les grands principes",
+"q": "En matière de discrimination, la charge de la preuve :",
+"o": [
+"Est aménagée : la victime établit une présomption, le défendeur doit ensuite prouver l'absence de discrimination",
+"Pèse entièrement sur le défendeur",
+"Pèse entièrement sur la victime",
+"N'existe pas"
+],
+"a": 0,
+"e": "Sans cet aménagement, prouver une motivation discriminatoire serait pratiquement impossible.",
+"c": "egalite-non-discrimination"
+},
+{
+"th": "Les grands principes",
+"q": "Quel organisme traite les discriminations fondées sur le sexe et l'identité de genre ?",
+"o": [
+"Unia",
+"Myria",
+"Le Comité P",
+"L'Institut pour l'égalité des femmes et des hommes"
+],
+"a": 3,
+"e": "Unia couvre la plupart des autres critères ; Myria traite les droits des personnes étrangères.",
+"c": "egalite-non-discrimination"
+},
+{
+"th": "Les grands principes",
+"q": "Une action positive doit notamment être :",
+"o": [
+"Limitée au secteur public",
+"Temporaire et cesser une fois l'objectif atteint",
+"Décidée par référendum",
+"Permanente"
+],
+"a": 1,
+"e": "Elle suppose une inégalité manifeste, un objectif de suppression, un caractère temporaire et une atteinte limitée aux droits des tiers.",
+"c": "egalite-non-discrimination"
+},
+{
+"th": "La justice",
+"q": "Combien de cantons judiciaires compte la Belgique ?",
+"o": [
+"150",
+"187",
+"46",
+"12"
+],
+"a": 1,
+"e": "Cent quatre-vingt-sept cantons, chacun avec sa justice de paix.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Combien d'arrondissements judiciaires compte la Belgique ?",
+"o": [
+"12",
+"27",
+"10",
+"5"
+],
+"a": 0,
+"e": "Douze arrondissements, sièges des tribunaux de première instance, du travail et de l'entreprise.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Combien de cours d'appel existe-t-il ?",
+"o": [
+"Cinq",
+"Trois",
+"Dix",
+"Douze"
+],
+"a": 0,
+"e": "Anvers, Bruxelles, Gand, Liège et Mons.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Jusqu'à quel montant le juge de paix est-il compétent en matière civile générale ?",
+"o": [
+"2 500 €",
+"5 000 €",
+"10 000 €",
+"2 000 €"
+],
+"a": 1,
+"e": "Cinq mille euros, sauf compétences spéciales attribuées à d'autres juridictions.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Quelle juridiction est compétente pour un litige portant sur un bail d'habitation, quel que soit le montant ?",
+"o": [
+"La justice de paix",
+"Le tribunal de l'entreprise",
+"La cour d'appel",
+"Le tribunal de police"
+],
+"a": 0,
+"e": "Les baux relèvent d'une compétence spéciale du juge de paix, indépendamment de la valeur du litige.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "En dessous de quel montant un jugement du juge de paix n'est-il pas susceptible d'appel ?",
+"o": [
+"5 000 €",
+"2 500 €",
+"2 000 €",
+"1 000 €"
+],
+"a": 2,
+"e": "Deux mille euros. Devant le tribunal civil, le seuil est de 2 500 €.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Quelle juridiction juge tout le contentieux de la circulation routière ?",
+"o": [
+"Le tribunal correctionnel",
+"La cour d'appel",
+"Le tribunal de police",
+"La justice de paix"
+],
+"a": 2,
+"e": "Le tribunal de police connaît de toutes les infractions de roulage, du stationnement à l'accident mortel.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Combien de jurés siègent à la cour d'assises ?",
+"o": [
+"Douze",
+"Neuf",
+"Quinze",
+"Six"
+],
+"a": 0,
+"e": "Douze citoyens tirés au sort sur les listes électorales, aux côtés de trois magistrats professionnels.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Un arrêt de cour d'assises peut-il faire l'objet d'un appel ?",
+"o": [
+"Oui, devant une autre cour d'assises",
+"Oui, devant la Cour de cassation qui rejuge les faits",
+"Non, seul un pourvoi en cassation est ouvert",
+"Oui, devant la Cour constitutionnelle"
+],
+"a": 2,
+"e": "L'absence de double degré en matière d'assises fait l'objet de critiques récurrentes.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Le tribunal de l'entreprise siège avec :",
+"o": [
+"Trois magistrats professionnels",
+"Un magistrat et deux juges consulaires",
+"Un jury",
+"Un juge unique"
+],
+"a": 1,
+"e": "Les juges consulaires sont des non-professionnels issus du monde de l'entreprise.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Le tribunal du travail est compétent pour :",
+"o": [
+"Les litiges de contrat de travail et de sécurité sociale",
+"Les infractions de roulage",
+"Les litiges entre commerçants",
+"Les divorces"
+],
+"a": 0,
+"e": "Il siège avec deux juges sociaux, l'un représentant les travailleurs, l'autre les employeurs.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "La Cour de cassation :",
+"o": [
+"Ne juge que les affaires pénales",
+"Contrôle la légalité et les formes, sans rejuger les faits",
+"Annule les arrêtés royaux",
+"Rejuge l'affaire en fait et en droit"
+],
+"a": 1,
+"e": "Si elle casse, elle renvoie devant une autre juridiction du même degré, qui rejugera l'affaire.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "En matière civile, quelle est la règle de compétence territoriale de principe ?",
+"o": [
+"Le domicile du défendeur",
+"Le lieu de naissance des parties",
+"Le lieu du tribunal le plus proche",
+"Le domicile du demandeur"
+],
+"a": 0,
+"e": "Celui qui agit doit en principe se rendre devant le tribunal du domicile de celui qu'il attaque.",
+"c": "organisation-judiciaire"
+},
+{
+"th": "La justice",
+"q": "Quelle garantie interdit de déplacer un juge sans son consentement ?",
+"o": [
+"La publicité des audiences",
+"L'inamovibilité",
+"La collégialité",
+"L'impartialité"
+],
+"a": 1,
+"e": "Sans inamovibilité, il suffirait de muter un magistrat gênant pour le sanctionner.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "L'impartialité objective concerne :",
+"o": [
+"La rapidité du jugement",
+"La compétence technique du juge",
+"Les convictions intimes du juge",
+"Les apparences, telles qu'un observateur raisonnable les perçoit"
+],
+"a": 3,
+"e": "Il ne suffit pas que la justice soit impartiale : elle doit aussi en donner l'apparence.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "Le ministre de la Justice peut donner au parquet :",
+"o": [
+"L'ordre de ne pas poursuivre",
+"L'ordre de récuser un juge",
+"Des directives générales et, exceptionnellement, une injonction de poursuivre",
+"L'ordre de condamner"
+],
+"a": 2,
+"e": "L'interdiction d'ordonner de ne pas poursuivre est l'une des garanties majeures du système.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "Le secret professionnel de l'avocat protège avant tout :",
+"o": [
+"Le tribunal",
+"L'Ordre",
+"Le client",
+"L'avocat"
+],
+"a": 2,
+"e": "C'est une garantie pour le client, pénalement sanctionnée, et en principe perpétuelle.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "Devant quelle juridiction la représentation par un avocat spécialisé est-elle obligatoire au civil ?",
+"o": [
+"La Cour de cassation",
+"Le tribunal de première instance",
+"Le tribunal du travail",
+"La justice de paix"
+],
+"a": 0,
+"e": "Le pourvoi civil en cassation doit être signé par un avocat à la Cour de cassation.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "Qui présente les candidats aux fonctions de magistrat ?",
+"o": [
+"Le ministre de la Justice seul",
+"Le barreau",
+"La Cour de cassation",
+"Le Conseil supérieur de la Justice"
+],
+"a": 3,
+"e": "Composé pour moitié de magistrats et pour moitié de non-magistrats, il a été créé après la crise institutionnelle des années 1990.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "L'aide juridique de première ligne est :",
+"o": [
+"Réservée aux bénéficiaires du revenu d'intégration",
+"Réservée aux affaires pénales",
+"Gratuite et accessible sans condition de revenus",
+"Payante mais plafonnée"
+],
+"a": 2,
+"e": "Il s'agit d'une consultation courte : information, premier avis, orientation.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "Sans la signature du greffier, un jugement :",
+"o": [
+"N'existe pas juridiquement",
+"Reste valable",
+"Doit être publié au Moniteur",
+"Est susceptible d'appel immédiat"
+],
+"a": 0,
+"e": "La signature du greffier est une condition de validité de la décision.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "Quel professionnel détient le monopole de la signification des actes ?",
+"o": [
+"Le notaire",
+"L'avocat",
+"Le greffier",
+"L'huissier de justice"
+],
+"a": 3,
+"e": "La signification donne date certaine et fait courir les délais de recours.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "Le rapport d'un expert judiciaire :",
+"o": [
+"Ne lie pas le juge, qui peut s'en écarter en motivant",
+"Est secret",
+"Remplace le jugement",
+"Lie le juge"
+],
+"a": 0,
+"e": "L'expert éclaire ; il ne juge pas. Les opérations d'expertise sont contradictoires.",
+"c": "acteurs-de-la-justice"
+},
+{
+"th": "La justice",
+"q": "Le principe dispositif signifie que :",
+"o": [
+"Le juge peut se saisir lui-même",
+"Le procès est public",
+"Le juge dispose des preuves",
+"Les parties déterminent l'objet du litige et le juge ne peut accorder plus ni autre chose"
+],
+"a": 3,
+"e": "Un juge qui accorderait plus que ce qui est demandé excéderait ses pouvoirs.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Une pièce non communiquée à l'adversaire :",
+"o": [
+"Doit être traduite",
+"Est transmise au parquet",
+"Peut être utilisée si elle est décisive",
+"Doit être écartée des débats"
+],
+"a": 3,
+"e": "C'est une conséquence directe du principe du contradictoire.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Quel est le délai de prescription de droit commun des actions personnelles ?",
+"o": [
+"Cinq ans",
+"Dix ans",
+"Trente ans",
+"Un an"
+],
+"a": 1,
+"e": "Dix ans, mais de nombreux délais spéciaux, beaucoup plus courts, existent.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "À quoi sert principalement une mise en demeure ?",
+"o": [
+"À obtenir un titre exécutoire",
+"À interrompre la prescription en toutes matières",
+"À sommer d'exécuter, faire courir les intérêts et dater l'avertissement",
+"À saisir le tribunal"
+],
+"a": 2,
+"e": "Elle est parfois une condition légale préalable à l'action en justice.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Le juge des référés peut :",
+"o": [
+"Prononcer une peine",
+"Trancher définitivement le fond",
+"Annuler une loi",
+"Ordonner des mesures provisoires en cas d'urgence"
+],
+"a": 3,
+"e": "Deux limites : l'urgence doit être réelle, et le provisoire ne peut pas préjudicier au fond.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "L'indemnité de procédure est :",
+"o": [
+"Une taxe de greffe",
+"Une amende pénale",
+"Le remboursement intégral des honoraires d'avocat",
+"Une contribution forfaitaire aux honoraires, due par la partie qui perd"
+],
+"a": 3,
+"e": "Elle ne couvre jamais la totalité des frais réellement exposés.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Quel est en principe le délai d'appel en matière civile ?",
+"o": [
+"8 jours",
+"1 mois",
+"3 mois",
+"15 jours"
+],
+"a": 1,
+"e": "Un mois à compter de la signification du jugement, et non de son prononcé.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Le pourvoi en cassation en matière civile doit être formé dans un délai de :",
+"o": [
+"6 mois",
+"15 jours",
+"1 mois",
+"3 mois"
+],
+"a": 3,
+"e": "Trois mois à compter de la signification de la décision rendue en dernier ressort.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Un jugement rendu par défaut peut faire l'objet :",
+"o": [
+"D'une révision",
+"D'une opposition",
+"D'un pourvoi immédiat",
+"D'aucun recours"
+],
+"a": 1,
+"e": "L'opposition fait rejuger l'affaire devant la même juridiction.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Que fait un huissier avant de procéder à une saisie-exécution ?",
+"o": [
+"Il signifie le jugement et délivre un commandement",
+"Il saisit la police",
+"Il obtient l'accord du créancier",
+"Il publie un avis au Moniteur"
+],
+"a": 0,
+"e": "La signification et le commandement sont des préalables obligatoires à la plupart des saisies.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Les revenus d'un débiteur :",
+"o": [
+"Ne peuvent être saisis qu'avec son accord",
+"Sont totalement insaisissables",
+"Sont intégralement saisissables",
+"Ne sont saisissables que par tranches selon un barème indexé"
+],
+"a": 3,
+"e": "Les quotités sont majorées en cas d'enfant à charge : c'est une protection d'ordre public.",
+"c": "proces-civil"
+},
+{
+"th": "La justice",
+"q": "Une transaction suppose :",
+"o": [
+"L'accord du parquet",
+"Des concessions réciproques et un différend",
+"L'homologation d'un juge",
+"Un acte notarié"
+],
+"a": 1,
+"e": "Sans concessions de part et d'autre, il n'y a pas transaction mais simple renonciation.",
+"c": "regler-autrement"
+},
+{
+"th": "La justice",
+"q": "Ce qui est dit en médiation :",
+"o": [
+"Peut être produit en justice",
+"Est confidentiel et ne peut pas être utilisé ensuite",
+"Doit être communiqué au parquet",
+"Est enregistré par le greffe"
+],
+"a": 1,
+"e": "La confidentialité est ce qui permet aux parties de parler librement ; le médiateur ne peut pas être appelé comme témoin.",
+"c": "regler-autrement"
+},
+{
+"th": "La justice",
+"q": "Un accord conclu devant un médiateur agréé peut :",
+"o": [
+"Être publié au Moniteur",
+"Être homologué par un juge et valoir jugement",
+"Être annulé par le parquet",
+"Être exécuté sans aucune formalité"
+],
+"a": 1,
+"e": "Le juge vérifie l'ordre public et, en matière familiale, l'intérêt de l'enfant ; il ne rejuge pas le fond.",
+"c": "regler-autrement"
+},
+{
+"th": "La justice",
+"q": "Dans le droit collaboratif, si la négociation échoue :",
+"o": [
+"Le juge désigne un expert",
+"Les avocats doivent se retirer",
+"Les avocats plaident le dossier",
+"Les parties paient une amende"
+],
+"a": 1,
+"e": "Cette clause de retrait crée un intérêt commun, pour les clients comme pour les conseils, à faire aboutir la négociation.",
+"c": "regler-autrement"
+},
+{
+"th": "La justice",
+"q": "Une clause d'arbitrage conclue avec un consommateur avant la naissance du litige est :",
+"o": [
+"Nulle",
+"Soumise à homologation",
+"Valable si elle est écrite",
+"Valable"
+],
+"a": 0,
+"e": "On ne peut pas priver d'avance un particulier de son juge naturel.",
+"c": "regler-autrement"
+},
+{
+"th": "La justice",
+"q": "Pour être exécutée par la contrainte, une sentence arbitrale doit :",
+"o": [
+"Être publiée",
+"Être confirmée par la Cour de cassation",
+"Recevoir l'exequatur du tribunal de première instance",
+"Être signée par un huissier"
+],
+"a": 2,
+"e": "Le contrôle de l'exequatur est limité : ordre public, régularité de la convention, respect du contradictoire.",
+"c": "regler-autrement"
+},
+{
+"th": "La justice",
+"q": "L'action publique appartient :",
+"o": [
+"Au ministère public",
+"À la victime",
+"Au barreau",
+"Au juge d'instruction"
+],
+"a": 0,
+"e": "C'est pourquoi retirer sa plainte ne met pas fin aux poursuites.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "La présomption d'innocence implique notamment que :",
+"o": [
+"Le juge doit être convaincu à 100 %",
+"L'accusé doit prouver son innocence",
+"Le silence vaut aveu",
+"Le doute profite à la personne poursuivie"
+],
+"a": 3,
+"e": "<em>In dubio pro reo</em> : un doute raisonnable doit conduire à l'acquittement.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Combien de temps une personne peut-elle être privée de liberté sans mandat d'arrêt ?",
+"o": [
+"72 heures",
+"48 heures",
+"24 heures",
+"5 jours"
+],
+"a": 1,
+"e": "Ce délai constitutionnel est l'une des garanties les plus anciennes du droit belge.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Qui peut délivrer un mandat d'arrêt ?",
+"o": [
+"Le bourgmestre",
+"Le chef de corps de la police",
+"Le juge d'instruction",
+"Le procureur du Roi"
+],
+"a": 2,
+"e": "Le parquet ne dispose pas de ce pouvoir : il relève du juge d'instruction, magistrat du siège.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Le juge d'instruction instruit :",
+"o": [
+"Uniquement sur demande de la victime",
+"À charge et à décharge",
+"Sous l'autorité du ministre",
+"Uniquement à charge"
+],
+"a": 1,
+"e": "C'est cette obligation qui justifie qu'on lui confie les pouvoirs les plus attentatoires aux libertés.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Le mandat d'arrêt doit être confirmé par la chambre du conseil dans un délai de :",
+"o": [
+"24 heures",
+"1 mois",
+"15 jours",
+"5 jours"
+],
+"a": 3,
+"e": "Puis la détention est réexaminée à intervalles réguliers, avec possibilité d'appel.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Un non-lieu est prononcé par :",
+"o": [
+"Le parquet",
+"La Cour de cassation",
+"Une juridiction d'instruction",
+"Le tribunal correctionnel"
+],
+"a": 2,
+"e": "Le tribunal de jugement acquitte ; le parquet classe sans suite ; la juridiction d'instruction rend un non-lieu.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Le classement sans suite est :",
+"o": [
+"Une décision du juge",
+"Une forme d'acquittement",
+"Définitif",
+"Réversible tant que l'action publique n'est pas prescrite"
+],
+"a": 3,
+"e": "Il découle du principe d'opportunité des poursuites reconnu au ministère public.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "À l'audience pénale, qui parle en dernier ?",
+"o": [
+"L'expert",
+"La défense",
+"La partie civile",
+"Le ministère public"
+],
+"a": 1,
+"e": "C'est une garantie fondamentale du procès équitable.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Si seul le condamné fait appel :",
+"o": [
+"Sa peine ne peut pas être aggravée",
+"Sa peine peut être aggravée",
+"L'appel est irrecevable",
+"Le parquet doit également faire appel"
+],
+"a": 0,
+"e": "C'est l'interdiction de la <em>reformatio in pejus</em> : sans elle, personne n'oserait faire appel.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "La suspension du prononcé permet :",
+"o": [
+"De suspendre la prescription",
+"D'annuler les poursuites",
+"De déclarer les faits établis sans prononcer de peine",
+"De reporter le procès"
+],
+"a": 2,
+"e": "Elle évite notamment l'inscription sur l'extrait de casier judiciaire.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Quelle juridiction décide d'une libération conditionnelle ?",
+"o": [
+"La cour d'appel",
+"Le tribunal de l'application des peines",
+"Le tribunal correctionnel",
+"La chambre du conseil"
+],
+"a": 1,
+"e": "Il en existe six, sous forme de sections de tribunaux de première instance.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Une victime qui se déclare simplement « personne lésée » :",
+"o": [
+"Déclenche une instruction",
+"Peut plaider à l'audience",
+"Est tenue informée des suites et peut déposer des pièces",
+"Devient partie au procès"
+],
+"a": 2,
+"e": "Seule la constitution de partie civile confère la qualité de partie au procès.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Devant le juge d'instruction, une constitution de partie civile :",
+"o": [
+"Est sans effet",
+"Oblige à ouvrir une instruction",
+"Suspend la prescription",
+"Doit être autorisée par le parquet"
+],
+"a": 1,
+"e": "Elle expose toutefois à des frais si la plainte est jugée téméraire ou vexatoire.",
+"c": "proces-penal"
+},
+{
+"th": "La justice",
+"q": "Le syllogisme judiciaire :",
+"o": [
+"Est interdit en droit belge",
+"Découvre la solution d'un litige",
+"Expose une solution déjà construite par la qualification et l'interprétation",
+"Ne s'applique qu'au pénal"
+],
+"a": 2,
+"e": "Le travail réel se situe en amont : choisir la règle, l'interpréter, qualifier les faits.",
+"c": "raisonnement-juridique"
+},
+{
+"th": "La justice",
+"q": "Qualifier un fait, c'est :",
+"o": [
+"Le prouver",
+"L'évaluer financièrement",
+"Le décrire au juge",
+"Le faire entrer dans une catégorie juridique"
+],
+"a": 3,
+"e": "La qualification détermine la règle applicable, le juge compétent, la prescription et le régime de preuve.",
+"c": "raisonnement-juridique"
+},
+{
+"th": "La justice",
+"q": "Le juge est-il lié par la qualification donnée par les parties ?",
+"o": [
+"Non, il applique le droit d'office, dans le respect du contradictoire",
+"Uniquement en appel",
+"Oui, sauf au pénal",
+"Oui, toujours"
+],
+"a": 0,
+"e": "S'il envisage une qualification non débattue, il doit rouvrir les débats.",
+"c": "raisonnement-juridique"
+},
+{
+"th": "La justice",
+"q": "Le raisonnement par analogie est interdit :",
+"o": [
+"En droit administratif",
+"En droit civil",
+"En droit européen",
+"En droit pénal"
+],
+"a": 3,
+"e": "Il n'y a ni infraction ni peine sans loi : étendre un texte pénal par analogie violerait le principe de légalité.",
+"c": "raisonnement-juridique"
+},
+{
+"th": "La justice",
+"q": "Les faits juridiques, comme un accident, se prouvent :",
+"o": [
+"Uniquement par écrit",
+"Par acte authentique",
+"Par serment uniquement",
+"Par tous moyens"
+],
+"a": 3,
+"e": "L'exigence d'un écrit concerne principalement les actes juridiques entre particuliers, au-delà d'un certain montant.",
+"c": "raisonnement-juridique"
+},
+{
+"th": "La justice",
+"q": "Un acte authentique fait foi :",
+"o": [
+"Uniquement entre les parties",
+"Jusqu'à preuve contraire simple",
+"Uniquement s'il est enregistré",
+"Jusqu'à inscription de faux"
+],
+"a": 3,
+"e": "Il possède en outre force exécutoire, ce qui permet une exécution sans passer par un juge.",
+"c": "raisonnement-juridique"
+},
+{
+"th": "La justice",
+"q": "En Belgique, le précédent judiciaire :",
+"o": [
+"Est interdit",
+"N'oblige pas juridiquement mais exerce une forte autorité de fait",
+"Ne concerne que la Cour constitutionnelle",
+"Est obligatoire comme en common law"
+],
+"a": 1,
+"e": "L'article 6 du Code judiciaire interdit aux juges de statuer par voie de disposition générale.",
+"c": "raisonnement-juridique"
+},
+{
+"th": "La justice",
+"q": "L'interprétation téléologique consiste à :",
+"o": [
+"S'en tenir au sens littéral des mots",
+"Comparer avec le droit étranger",
+"Rechercher le but poursuivi par la norme",
+"Consulter les travaux préparatoires"
+],
+"a": 2,
+"e": "C'est la méthode dominante en droit de l'Union européenne.",
+"c": "raisonnement-juridique"
+},
+{
+"th": "La justice",
+"q": "L'argument a contrario et l'argument par analogie :",
+"o": [
+"Mènent à des conclusions opposées à partir du même silence du texte",
+"Donnent toujours le même résultat",
+"Sont interdits",
+"Ne s'appliquent qu'aux traités"
+],
+"a": 0,
+"e": "C'est pourquoi le choix entre eux doit être motivé : ce sont des lieux d'argumentation, pas des démonstrations.",
+"c": "raisonnement-juridique"
+}
+]
