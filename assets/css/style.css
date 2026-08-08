@@ -5,6 +5,12 @@
    marginales en monospace, filets fins, aucune ombre portée décorative.
    ========================================================================= */
 
+/* L'attribut HTML `hidden` doit toujours l'emporter. Sans cette règle, toute
+   déclaration `display` de cette feuille (ex. .searchbox { display: grid })
+   écrase la règle du navigateur `[hidden] { display: none }` : l'élément reste
+   affiché et, s'il est en position fixe, il intercepte tous les clics. */
+[hidden] { display: none !important; }
+
 :root {
   --paper:        #EFEEE7;
   --paper-2:      #E7E6DC;
